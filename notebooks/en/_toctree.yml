@@ -1,0 +1,8 @@
+- title: Open-Source AI Cookbook
+  sections:
+  - local: FAISS_with_HF_datasets_and_CLIP.ipynb
+    title: Embedding multimodal data for similarity search using 🤗 transformers, 🤗 datasets and FAISS
+  - local: RAG_zephyr_langchain.ipynb
+    title: Simple RAG for GitHub issues using Hugging Face Zephyr and LangChain
+  - local: Fine_tuning_Code_LLM_on_single_GPU.ipynb
+    title: Fine-tuning a Code LLM on Custom Code on a single GPU
