@@ -1,7 +1,7 @@
 - title: Open-Source AI Cookbook
   sections:
   - local: index
-    title: About the Open-Source AI Cookbook
+    title: Open-Source AI Cookbook
   - local: FAISS_with_HF_datasets_and_CLIP
     title: Embedding multimodal data for similarity search
   - local: Fine_tuning_Code_LLM_on_single_GPU
