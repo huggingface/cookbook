@@ -19,3 +19,4 @@ jobs:
       additional_args: --not_python_module
       languages: en
       convert_notebooks: true
+      doc_builder_revision: add_colab_link_tonbcnversion
