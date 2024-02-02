@@ -2,6 +2,9 @@ name: Build documentation
 
 on:
   push:
+    paths:
+      - "notebooks/**"
+      - ".github/workflows/build_documentation.yml"
     branches:
       - main
 
