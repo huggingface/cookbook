@@ -2,13 +2,13 @@
   sections:
   - local: index
     title: Open-Source AI Cookbook
-  - local: FAISS_with_HF_datasets_and_CLIP
+  - local: faiss_with_hf_datasets_and_clip
     title: Embedding multimodal data for similarity search
-  - local: Fine_tuning_Code_LLM_on_single_GPU
+  - local: fine_tuning_code_llm_on_single_gpu
     title: Fine-tuning a Code LLM on Custom Code on a single GPU
-  - local: RAG_zephyr_langchain
+  - local: rag_zephyr_langchain
     title: Simple RAG using Hugging Face Zephyr and LangChain
-  - local: advanced_RAG
+  - local: advanced_rag
     title: Advanced RAG on HuggingFace documentation using LangChain
-  - local: RAG_evaluation
+  - local: rag_evaluation
     title: RAG Evaluation
