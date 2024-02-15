@@ -1,0 +1,24 @@
+name: Check notebook names are lowercase
+
+on: [push]
+
+jobs:
+  check-lowercase:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Check filenames in 'notebooks/'
+      run: |
+        # Change to the directory where you want to check filenames
+        cd notebooks
+        # Find files with uppercase characters in their names
+        files=$(find . -type f | grep '[A-Z]' || true)
+        if [ -n "$files" ]; then
+            echo "The following files are not lowercase:"
+            echo "$files"
+            exit 1
+        else
+            echo "All filenames are lowercase."
+        fi
