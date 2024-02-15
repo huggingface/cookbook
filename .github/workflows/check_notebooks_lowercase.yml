@@ -1,4 +1,4 @@
-name: Check nteobook names are lowercase
+name: Check notebook names are lowercase
 
 on: [push]
 
