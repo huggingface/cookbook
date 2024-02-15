@@ -21,5 +21,4 @@ jobs:
             exit 1
         else
             echo "All filenames are lowercase."
-            exit 0
         fi
