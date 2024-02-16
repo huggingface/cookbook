@@ -6,7 +6,7 @@ using open-source tools and models.
 ## Contributing to the cookbook
 
 Everyone is welcome to contribute, and we value everybody's contribution! There are several ways you can contribute to 
-the [Open-Source AI Cookbook](hf.co/learn/cookbook):
+the [Open-Source AI Cookbook](https://huggingface.co/learn/cookbook/index):
 
 * Submit an idea for a desired example/guide via [GitHub Issues](https://github.com/huggingface/cookbook/issues).
 * Contribute a new notebook with a practical example.
