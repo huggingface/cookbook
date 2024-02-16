@@ -12,3 +12,5 @@
     title: Advanced RAG on HuggingFace documentation using LangChain
   - local: rag_evaluation
     title: RAG Evaluation
+  - local: tgi_messages_api_demo
+    title: From OpenAI to Open LLMs with Messages API on Hugging Face
