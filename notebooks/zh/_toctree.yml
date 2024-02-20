@@ -1,8 +1,8 @@
-- title: Open-Source AI Cookbook
+- title: 开源 AI 食谱
   sections:
   - local: index
-    title: Open-Source AI Cookbook
+    title: 开源 AI 食谱
   - local: faiss_with_hf_datasets_and_clip
-    title: Embedding multimodal data for similarity search
+    title: 用 🤗 transformers, 🤗 datasets 和 FAISS 嵌入多模态数据进行相似度搜索
   - local: rag_zephyr_langchain
-    title: Simple RAG using Hugging Face Zephyr and LangChain
+    title: 用 Hugging Face Zephyr 和 LangChain 针对 Github issues 构建简单的 RAG
