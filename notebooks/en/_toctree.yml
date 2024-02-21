@@ -14,3 +14,5 @@
     title: Advanced RAG on HuggingFace documentation using LangChain
   - local: rag_evaluation
     title: RAG Evaluation
+  - local: stable_diffusion_interpolation
+    title: Stable Diffusion Interpolation
