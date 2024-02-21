@@ -2,6 +2,8 @@
   sections:
   - local: index
     title: Open-Source AI Cookbook
+  - local: stable_diffusion_interpolation
+    title: Stable Diffusion Interpolation
   - local: automatic_embedding_tei_inference_endpoints
     title: Automatic Embeddings with TEI through Inference Endpoints
   - local: faiss_with_hf_datasets_and_clip
@@ -14,5 +16,3 @@
     title: Advanced RAG on HuggingFace documentation using LangChain
   - local: rag_evaluation
     title: RAG Evaluation
-  - local: stable_diffusion_interpolation
-    title: Stable Diffusion Interpolation
