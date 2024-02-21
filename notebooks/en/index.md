@@ -7,12 +7,12 @@ applications and solving various machine learning tasks using open-source tools 
 
 Check out the recently added notebooks: 
 
+- [From OpenAI to Open LLMs with Messages API on Hugging Face](tgi_messages_api_demo)
 - [Simple RAG for GitHub issues using Hugging Face Zephyr and LangChain](rag_zephyr_langchain)
 - [Embedding multimodal data for similarity search using 🤗 transformers, 🤗 datasets and FAISS](faiss_with_hf_datasets_and_clip)
 - [Fine-tuning a Code LLM on Custom Code on a single GPU](fine_tuning_code_llm_on_single_gpu)
 - [RAG Evaluation Using Synthetic data and LLM-As-A-Judge](rag_evaluation)
 - [Advanced RAG on HuggingFace documentation using LangChain](advanced_rag)
-- [From OpenAI to Open LLMs with Messages API on Hugging Face](tgi_messages_api_demo)
 
 You can also check out the notebooks in the cookbook's [GitHub repo](https://github.com/huggingface/cookbook).
 
