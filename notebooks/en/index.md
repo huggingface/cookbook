@@ -7,7 +7,7 @@ applications and solving various machine learning tasks using open-source tools 
 
 Check out the recently added notebooks: 
 
-- [From OpenAI to Open LLMs with Messages API on Hugging Face](tgi_messages_api_demo)
+- [Migrating from OpenAI to Open LLMs Using TGI's Messages API](tgi_messages_api_demo)
 - [Simple RAG for GitHub issues using Hugging Face Zephyr and LangChain](rag_zephyr_langchain)
 - [Embedding multimodal data for similarity search using 🤗 transformers, 🤗 datasets and FAISS](faiss_with_hf_datasets_and_clip)
 - [Fine-tuning a Code LLM on Custom Code on a single GPU](fine_tuning_code_llm_on_single_gpu)
