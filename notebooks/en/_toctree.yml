@@ -2,6 +2,8 @@
   sections:
   - local: index
     title: Open-Source AI Cookbook
+  - local: automatic_embedding_tei_inference_endpoints
+    title: Automatic Embeddings with TEI through Inference Endpoints
   - local: faiss_with_hf_datasets_and_clip
     title: Embedding multimodal data for similarity search
   - local: fine_tuning_code_llm_on_single_gpu
