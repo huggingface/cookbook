@@ -2,6 +2,8 @@
   sections:
   - local: index
     title: Open-Source AI Cookbook
+  - local: tgi_messages_api_demo
+    title: Migrating from OpenAI to Open LLMs Using TGI's Messages API
   - local: automatic_embedding_tei_inference_endpoints
     title: Automatic Embeddings with TEI through Inference Endpoints
   - local: faiss_with_hf_datasets_and_clip
