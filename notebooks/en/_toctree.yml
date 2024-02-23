@@ -16,5 +16,5 @@
     title: Advanced RAG on HuggingFace documentation using LangChain
   - local: rag_evaluation
     title: RAG Evaluation
-  - local: Prompt_Tuning_PEFT
+  - local: prompt_tuning_peft
     title: Prompt tuning with PEFT
