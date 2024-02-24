@@ -1,7 +1,7 @@
-- title: 开源 AI 食谱
+- title: 开源 AI Cookbook
   sections:
   - local: index
-    title: 开源 AI 食谱
+    title: 开源 AI Cookbook
   - local: automatic_embedding_tei_inference_endpoints
     title: 通过推理端点使用 TEI 自动嵌入
   - local: faiss_with_hf_datasets_and_clip
