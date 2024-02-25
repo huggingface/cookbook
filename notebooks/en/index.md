@@ -8,6 +8,7 @@ applications and solving various machine learning tasks using open-source tools 
 Check out the recently added notebooks: 
 
 - [Stable Diffusion Interpolation](stable_diffusion_interpolation)
+- [Migrating from OpenAI to Open LLMs Using TGI's Messages API](tgi_messages_api_demo)
 - [Automatic Embeddings with TEI through Inference Endpoints](automatic_embedding_tei_inference_endpoints)
 - [Simple RAG for GitHub issues using Hugging Face Zephyr and LangChain](rag_zephyr_langchain)
 - [Embedding multimodal data for similarity search using 🤗 transformers, 🤗 datasets and FAISS](faiss_with_hf_datasets_and_clip)
