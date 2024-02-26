@@ -8,6 +8,7 @@ applications and solving various machine learning tasks using open-source tools 
 Check out the recently added notebooks: 
 
 - [Stable Diffusion Interpolation](stable_diffusion_interpolation)
+- [Prompt Tuning with PEFT Library](prompt_tuning_peft)
 - [Migrating from OpenAI to Open LLMs Using TGI's Messages API](tgi_messages_api_demo)
 - [Automatic Embeddings with TEI through Inference Endpoints](automatic_embedding_tei_inference_endpoints)
 - [Simple RAG for GitHub issues using Hugging Face Zephyr and LangChain](rag_zephyr_langchain)
@@ -16,7 +17,7 @@ Check out the recently added notebooks:
 - [RAG Evaluation Using Synthetic data and LLM-As-A-Judge](rag_evaluation)
 - [Advanced RAG on HuggingFace documentation using LangChain](advanced_rag)
 
-You can also check out the notebooks in the cookbook's [GitHub repo](https://github.com/huggingface/cookbook).
+You can also check out the notebooks in the cookbook's [GitHub repo](https://github.com/huggingface/cookbook.ipynb).
 
 ## Contributing
 
