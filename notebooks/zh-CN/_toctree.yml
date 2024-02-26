@@ -1,0 +1,16 @@
+- title: 开源 AI 指南 (Cookbook)
+  sections:
+  - local: index
+    title: 开源 AI 指南 (Cookbook)
+  - local: automatic_embedding_tei_inference_endpoints
+    title: 通过推理端点使用 TEI 自动嵌入
+  - local: faiss_with_hf_datasets_and_clip
+    title: 用 🤗 transformers, 🤗 datasets 和 FAISS 嵌入多模态数据进行相似度搜索
+  - local: fine_tuning_code_llm_on_single_gpu
+    title: 在单个 GPU 上针对自定义代码微调代码 LLM
+  - local: rag_zephyr_langchain
+    title: 用 Hugging Face Zephyr 和 LangChain 针对 Github issues 构建简单的 RAG
+  - local: advanced_rag
+    title: 使用 LangChain 在 HuggingFace 文档上构建高级 RAG
+  - local: rag_evaluation
+    title: 使用合成数据和 LLM 作为裁判评估 RAG
