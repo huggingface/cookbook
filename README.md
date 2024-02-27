@@ -40,7 +40,7 @@ Here are some tips:
 * If using any images in the markdown, upload them to the [huggingface/cookbook-images](https://huggingface.co/datasets/huggingface/cookbook-images) dataset. Then use the link to the image in your markdown, e.g.:
 ```![RAG diagram](https://huggingface.co/datasets/huggingface/cookbook-images/resolve/main/rag-diagram.png)```
 
-Once your pull request is merged, the notebook will show up in the [Open-Source AI Cookbook](hf.co/learn/cookbook).
+Once your pull request is merged, the notebook will show up in the [Open-Source AI Cookbook](https://hf.co/learn/cookbook).
 
 ### Translating the Cookbook into your language
 
