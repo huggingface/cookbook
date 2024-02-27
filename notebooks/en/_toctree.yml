@@ -2,6 +2,8 @@
   sections:
   - local: index
     title: Open-Source AI Cookbook
+  - local: stable_diffusion_interpolation
+    title: Stable Diffusion Interpolation
   - local: rag_with_hugging_face_gemma_mongodb
     title: Building A RAG System with Gemma, MongoDB and Open Source Models
   - local: tgi_messages_api_demo
