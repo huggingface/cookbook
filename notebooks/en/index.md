@@ -18,7 +18,7 @@ Check out the recently added notebooks:
 - [RAG Evaluation Using Synthetic data and LLM-As-A-Judge](rag_evaluation)
 - [Advanced RAG on HuggingFace documentation using LangChain](advanced_rag)
 
-You can also check out the notebooks in the cookbook's [GitHub repo](https://github.com/huggingface/cookbook.ipynb).
+You can also check out the notebooks in the cookbook's [GitHub repo](https://github.com/huggingface/cookbook).
 
 ## Contributing
 
