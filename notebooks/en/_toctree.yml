@@ -2,6 +2,14 @@
   sections:
   - local: index
     title: Open-Source AI Cookbook
+  - local: stable_diffusion_interpolation
+    title: Stable Diffusion Interpolation
+  - local: rag_with_hugging_face_gemma_mongodb
+    title: Building A RAG System with Gemma, MongoDB and Open Source Models
+  - local: tgi_messages_api_demo
+    title: Migrating from OpenAI to Open LLMs Using TGI's Messages API
+  - local: automatic_embedding_tei_inference_endpoints
+    title: Automatic Embeddings with TEI through Inference Endpoints
   - local: faiss_with_hf_datasets_and_clip
     title: Embedding multimodal data for similarity search
   - local: fine_tuning_code_llm_on_single_gpu
@@ -12,5 +20,7 @@
     title: Advanced RAG on HuggingFace documentation using LangChain
   - local: rag_evaluation
     title: RAG Evaluation
- - local: issues_in_text_dataset
+  - local: issues_in_text_dataset
     title: Detecting Issues in a Text Dataset with Datalab
+  - local: prompt_tuning_peft
+    title: Prompt tuning with PEFT
