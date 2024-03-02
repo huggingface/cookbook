@@ -22,3 +22,5 @@
     title: RAG Evaluation
   - local: prompt_tuning_peft
     title: Prompt tuning with PEFT
+  - local: semantic_cache_chroma_vector_database
+    title: Implementing semantic cache tom improve a RAG system.
