@@ -7,6 +7,7 @@ applications and solving various machine learning tasks using open-source tools 
 
 Check out the recently added notebooks: 
 
+- [Implementing semantic cache tom improve a RAG system](semantic_cache_chroma_vector_database)
 - [Stable Diffusion Interpolation](stable_diffusion_interpolation)
 - [Building A RAG System with Gemma, MongoDB and Open Source Models](rag_with_hugging_face_gemma_mongodb)
 - [Prompt Tuning with PEFT Library](prompt_tuning_peft)
