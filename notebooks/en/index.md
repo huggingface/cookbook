@@ -1,14 +1,15 @@
 # Open-Source AI Cookbook
 
-The Open-Source AI Cookbook is a collection of notebooks illustrating practical aspects of building AI 
+The Open-Source AI Cookbook is a collection of notebooks illustrating practical aspects of building AI
 applications and solving various machine learning tasks using open-source tools and models.
 
 ## Latest notebooks
 
-Check out the recently added notebooks: 
+Check out the recently added notebooks:
 
 - [Create a legal preference dataset](pipeline_notus_instructions_preferences_legal)
 - [Fine-tune a SetFit model using the ArgillaTrainer](trainer_feedback_setfit)
+- [Building A RAG Ebook "Librarian" Using LlamaIndex](rag_llamaindex_librarian)
 - [Stable Diffusion Interpolation](stable_diffusion_interpolation)
 - [Building A RAG System with Gemma, MongoDB and Open Source Models](rag_with_hugging_face_gemma_mongodb)
 - [Prompt Tuning with PEFT Library](prompt_tuning_peft)
@@ -24,6 +25,6 @@ You can also check out the notebooks in the cookbook's [GitHub repo](https://git
 
 ## Contributing
 
-The Open-Source AI Cookbook is a community effort, and we welcome contributions from everyone! 
-Check out the cookbook's [Contribution guide](https://github.com/huggingface/cookbook/blob/main/README.md) to learn 
-how you can add your "recipe". 
+The Open-Source AI Cookbook is a community effort, and we welcome contributions from everyone!
+Check out the cookbook's [Contribution guide](https://github.com/huggingface/cookbook/blob/main/README.md) to learn
+how you can add your "recipe".
