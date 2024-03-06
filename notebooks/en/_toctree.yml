@@ -26,5 +26,5 @@
     title: Prompt tuning with PEFT
   - local: labelling_feedback_setfit
     title: Add zero-shot text classification suggestions using SetFit
-  - local: pipeline_notus_instructions_preference_legal
+  - local: pipeline_notus_instructions_preferences_legal
     title: Create a legal preference dataset
