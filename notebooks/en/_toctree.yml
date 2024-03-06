@@ -24,7 +24,7 @@
     title: RAG Evaluation
   - local: prompt_tuning_peft
     title: Prompt tuning with PEFT
-  - local: trainer_feedback_setfit
-    title: Fine-tune a SetFit model using the ArgillaTrainer
+  - local: labelling_feedback_setfit
+    title: Add zero-shot text classification suggestions using SetFit
   - local: pipeline_notus_instructions_preference_legal
     title: Create a legal preference dataset
