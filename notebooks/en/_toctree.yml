@@ -16,6 +16,8 @@
     title: Fine-tuning a Code LLM on Custom Code on a single GPU
   - local: rag_zephyr_langchain
     title: Simple RAG using Hugging Face Zephyr and LangChain
+  - local: rag_llamaindex_librarian
+    title: RAG "Librarian" Using LlamaIndex
   - local: advanced_rag
     title: Advanced RAG on HuggingFace documentation using LangChain
   - local: rag_evaluation
