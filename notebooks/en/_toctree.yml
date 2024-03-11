@@ -18,9 +18,13 @@
     title: Fine-tuning a Code LLM on Custom Code on a single GPU
   - local: rag_zephyr_langchain
     title: Simple RAG using Hugging Face Zephyr and LangChain
+  - local: rag_llamaindex_librarian
+    title: RAG "Librarian" Using LlamaIndex
   - local: advanced_rag
     title: Advanced RAG on HuggingFace documentation using LangChain
   - local: rag_evaluation
     title: RAG Evaluation
   - local: prompt_tuning_peft
     title: Prompt tuning with PEFT
+  - local: semantic_cache_chroma_vector_database
+    title: Implementing semantic cache to improve a RAG system.
