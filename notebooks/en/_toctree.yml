@@ -1,5 +1,7 @@
 - title: Open-Source AI Cookbook
   sections:
+  - local: issues_in_text_dataset
+    title: Detecting Issues in a Text Dataset with Cleanlab
   - local: index
     title: Open-Source AI Cookbook
   - local: stable_diffusion_interpolation
@@ -20,7 +22,5 @@
     title: Advanced RAG on HuggingFace documentation using LangChain
   - local: rag_evaluation
     title: RAG Evaluation
-  - local: issues_in_text_dataset
-    title: Detecting Issues in a Text Dataset with Datalab
   - local: prompt_tuning_peft
     title: Prompt tuning with PEFT
