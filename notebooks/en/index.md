@@ -17,7 +17,7 @@ Check out the recently added notebooks:
 - [Fine-tuning a Code LLM on Custom Code on a single GPU](fine_tuning_code_llm_on_single_gpu)
 - [RAG Evaluation Using Synthetic data and LLM-As-A-Judge](rag_evaluation)
 - [Advanced RAG on HuggingFace documentation using LangChain](advanced_rag)
-- [Detecting Issues in a Text Dataset with Datalab](issues_in_text_dataset)
+- [Detecting Issues in a Text Dataset with Cleanlab](issues_in_text_dataset)
 
 You can also check out the notebooks in the cookbook's [GitHub repo](https://github.com/huggingface/cookbook).
 
