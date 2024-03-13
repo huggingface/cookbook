@@ -8,7 +8,7 @@ applications and solving various machine learning tasks using open-source tools 
 Check out the recently added notebooks:
 
 - [Create a legal preference dataset](pipeline_notus_instructions_preferences_legal)
-- [Add zero-shot text classification suggestions using SetFit](labelling_feedback_setfit)
+- [Suggestions for Data Annotation with SetFit in Zero-shot Text Classification](labelling_feedback_setfit)
 - [Implementing semantic cache to improve a RAG system](semantic_cache_chroma_vector_database)
 - [Building A RAG Ebook "Librarian" Using LlamaIndex](rag_llamaindex_librarian)
 - [Stable Diffusion Interpolation](stable_diffusion_interpolation)
