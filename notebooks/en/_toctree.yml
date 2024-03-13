@@ -28,3 +28,6 @@
     title: Prompt tuning with PEFT
   - local: semantic_cache_chroma_vector_database
     title: Implementing semantic cache to improve a RAG system.
+  - local: llm_judge
+    title: LLM-as-a-judge 🧑‍⚖️ - Building an automated and versatile evaluation system 
+
