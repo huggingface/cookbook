@@ -7,6 +7,7 @@ applications and solving various machine learning tasks using open-source tools 
 
 Check out the recently added notebooks:
 
+- [Using LLM-as-a-judge 🧑‍⚖️ for an automated and versatile evaluation](llm_judge)
 - [Implementing semantic cache to improve a RAG system](semantic_cache_chroma_vector_database)
 - [Building A RAG Ebook "Librarian" Using LlamaIndex](rag_llamaindex_librarian)
 - [Stable Diffusion Interpolation](stable_diffusion_interpolation)
