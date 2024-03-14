@@ -8,6 +8,8 @@ applications and solving various machine learning tasks using open-source tools 
 Check out the recently added notebooks:
 
 - [Using LLM-as-a-judge 🧑‍⚖️ for an automated and versatile evaluation](llm_judge)
+- [Create a legal preference dataset](pipeline_notus_instructions_preferences_legal)
+- [Suggestions for Data Annotation with SetFit in Zero-shot Text Classification](labelling_feedback_setfit)
 - [Implementing semantic cache to improve a RAG system](semantic_cache_chroma_vector_database)
 - [Building A RAG Ebook "Librarian" Using LlamaIndex](rag_llamaindex_librarian)
 - [Stable Diffusion Interpolation](stable_diffusion_interpolation)
@@ -20,7 +22,7 @@ Check out the recently added notebooks:
 - [Fine-tuning a Code LLM on Custom Code on a single GPU](fine_tuning_code_llm_on_single_gpu)
 - [RAG Evaluation Using Synthetic data and LLM-As-A-Judge](rag_evaluation)
 - [Advanced RAG on HuggingFace documentation using LangChain](advanced_rag)
-- [Detecting Issues in a Text Dataset with Datalab](issues_in_text_dataset)
+- [Detecting Issues in a Text Dataset with Cleanlab](issues_in_text_dataset)
 
 You can also check out the notebooks in the cookbook's [GitHub repo](https://github.com/huggingface/cookbook).
 
