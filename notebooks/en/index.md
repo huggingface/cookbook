@@ -22,6 +22,7 @@ Check out the recently added notebooks:
 - [RAG Evaluation Using Synthetic data and LLM-As-A-Judge](rag_evaluation)
 - [Advanced RAG on HuggingFace documentation using LangChain](advanced_rag)
 - [Detecting Issues in a Text Dataset with Cleanlab](issues_in_text_dataset)
+- [Effectively Annotate Text Data for Transformers via Active Learning using Cleanlab](annotate_text_data_transformers_via_active_learning)
 
 You can also check out the notebooks in the cookbook's [GitHub repo](https://github.com/huggingface/cookbook).
 
