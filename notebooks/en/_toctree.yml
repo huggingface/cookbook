@@ -50,10 +50,15 @@
     title: Create a legal preference dataset
   - local: semantic_cache_chroma_vector_database
     title: Implementing semantic cache to improve a RAG system.
-  - local: agents
-    title: Build an agent with tool-calling superpowers using Transformers Agents
+  - local: constrained generation
+    title: RAG with source highlighting using Constrained generation
 
 - title: Computer Vision
   sections:
   - local: fine_tuning_vit_custom_dataset
     title: Fine-tuning a Vision Transformer Model With a Custom Biomedical Dataset
+
+- title: Agents
+  sections:
+  - local: agents
+    title: Build an agent with tool-calling superpowers using Transformers Agents
