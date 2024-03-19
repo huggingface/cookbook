@@ -7,6 +7,7 @@ applications and solving various machine learning tasks using open-source tools 
 
 Check out the recently added notebooks:
 
+- [Using LLM-as-a-judge 🧑‍⚖️ for an automated and versatile evaluation](llm_judge)
 - [Create a legal preference dataset](pipeline_notus_instructions_preferences_legal)
 - [Suggestions for Data Annotation with SetFit in Zero-shot Text Classification](labelling_feedback_setfit)
 - [Implementing semantic cache to improve a RAG system](semantic_cache_chroma_vector_database)
