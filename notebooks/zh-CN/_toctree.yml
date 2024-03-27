@@ -2,6 +2,8 @@
   sections:
   - local: index
     title: 开源 AI 指南 (Cookbook)
+  - local: rag_with_hugging_face_gemma_mongodb
+    title: 用 Gemma, MongoDB 和开源模型构建 RAG 系统
   - local: automatic_embedding_tei_inference_endpoints
     title: 通过推理端点使用 TEI 自动嵌入
   - local: faiss_with_hf_datasets_and_clip
@@ -10,6 +12,8 @@
     title: 在单个 GPU 上针对自定义代码微调代码 LLM
   - local: rag_zephyr_langchain
     title: 用 Hugging Face Zephyr 和 LangChain 针对 Github issues 构建简单的 RAG
+  - local: rag_llamaindex_librarian
+    title: 用 LlamaIndex 构建一个 RAG 电子书库智能助手
   - local: advanced_rag
     title: 使用 LangChain 在 HuggingFace 文档上构建高级 RAG
   - local: rag_evaluation
