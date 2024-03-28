@@ -20,3 +20,5 @@
     title: 使用 LangChain 在 HuggingFace 文档上构建高级 RAG
   - local: rag_evaluation
     title: 使用合成数据和 LLM 作为裁判评估 RAG
+  - local: semantic_cache_chroma_vector_database
+    title: 通过引入语义缓存到 FAISS 中以增强 RAG 系统的性能
