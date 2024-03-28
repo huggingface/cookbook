@@ -2,6 +2,8 @@
   sections:
   - local: index
     title: 开源 AI 指南 (Cookbook)
+  - local: issues_in_text_dataset
+    title: 使用 Cleanlab 检测文本数据集中的问题
   - local: rag_with_hugging_face_gemma_mongodb
     title: 用 Gemma, MongoDB 和开源模型构建 RAG 系统
   - local: automatic_embedding_tei_inference_endpoints
