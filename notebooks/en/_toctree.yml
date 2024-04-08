@@ -32,6 +32,7 @@
     title: Create a legal preference dataset
   - local: semantic_cache_chroma_vector_database
     title: Implementing semantic cache to improve a RAG system.
+  - local: annotate_text_data_transformers_via_active_learning
+    title: Annotate text data using Active Learning with Cleanlab
   - local: llm_judge
     title: Using LLM-as-a-judge for an automated and versatile evaluation
-
