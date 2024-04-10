@@ -2,3 +2,6 @@
   sections:
   - local: index
     title: کتابچه متن-باز هوش‌ مصنوعی
+  - local: fine_tuning_code_llm_on_single_gpu
+    title: تنظیم دقیق مدل زبانی بزرگ مبتنی بر کد با کد‌های شخصی توسط یک هسته GPU
+  
