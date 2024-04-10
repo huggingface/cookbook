@@ -24,6 +24,7 @@ Check out the recently added notebooks:
 - [Advanced RAG on HuggingFace documentation using LangChain](advanced_rag)
 - [Detecting Issues in a Text Dataset with Cleanlab](issues_in_text_dataset)
 - [Annotate text data using Active Learning with Cleanlab](annotate_text_data_transformers_via_active_learning)
+- [Protect your LangChain RAG Apps with ChainGuard](protect_langchain_apps_with_chainguard)
 
 You can also check out the notebooks in the cookbook's [GitHub repo](https://github.com/huggingface/cookbook).
 

@@ -24,6 +24,8 @@
     title: Advanced RAG on HuggingFace documentation using LangChain
   - local: rag_evaluation
     title: RAG Evaluation
+  - local: rag_prompt_injection_defense_with_chainguard
+    title: Protect your LangChain RAG Apps with ChainGuard
   - local: prompt_tuning_peft
     title: Prompt tuning with PEFT
   - local: labelling_feedback_setfit
