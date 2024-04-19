@@ -29,7 +29,7 @@ following qualities:
 
 ### Creating a pull request
 
-To contribute a new example/guide, open a pull request.
+To contribute a new example/guide, open a pull request, and tag @merveenoyan and @stevhliu.
 
 Here are some tips:
 
