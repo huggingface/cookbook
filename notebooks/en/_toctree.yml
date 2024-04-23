@@ -36,3 +36,6 @@
     title: Annotate text data using Active Learning with Cleanlab
   - local: llm_judge
     title: Using LLM-as-a-judge for an automated and versatile evaluation
+  - local: Building_Resillient_Image_Gen_Pipeline
+    title: Building a Resillient Generative AI Image Generation Pipeline
+    
