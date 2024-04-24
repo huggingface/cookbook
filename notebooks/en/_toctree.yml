@@ -28,6 +28,7 @@
     title: Stable Diffusion Interpolation
 
 - title: Multimodal Recipes
+  sections:
   - local: faiss_with_hf_datasets_and_clip
     title: Embedding multimodal data for similarity search
     
