@@ -33,6 +33,7 @@
     title: Embedding multimodal data for similarity search
     
 - title: LLM and RAG recipes with other Libraries
+  sections:
   - local: issues_in_text_dataset
     title: Detecting Issues in a Text Dataset with Cleanlab
   - local: annotate_text_data_transformers_via_active_learning
