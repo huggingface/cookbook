@@ -26,6 +26,8 @@
   sections:
   - local: stable_diffusion_interpolation
     title: Stable Diffusion Interpolation
+  - local: quantization_stable_diffusion
+    title: Quantization Stable Diffusion
 
 - title: Multimodal Recipes
   sections:
