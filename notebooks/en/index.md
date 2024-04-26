@@ -10,6 +10,7 @@ Check out the recently added notebooks:
 - [Using LLM-as-a-judge 🧑‍⚖️ for an automated and versatile evaluation](llm_judge)
 - [Create a legal preference dataset](pipeline_notus_instructions_preferences_legal)
 - [Suggestions for Data Annotation with SetFit in Zero-shot Text Classification](labelling_feedback_setfit)
+- [Fine-tune an LLM on simple task using single GPU with fast inference](fine_tuning_simple_task_on_single_gpu_with_fast_inference)
 
 You can also check out the notebooks in the cookbook's [GitHub repo](https://github.com/huggingface/cookbook).
 
