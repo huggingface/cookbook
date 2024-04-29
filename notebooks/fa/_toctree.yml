@@ -1,0 +1,6 @@
+- title: کتاب متن باز دستورالعمل هوش مصنوعی (Cookbook)
+  sections:
+  - local: index
+  title:  کتاب متن باز دستورالعمل هوش مصنوعی (Cookbook)
+  - local: issues_in_text_dataset
+  title:  Cleanlab تشخیص مشکلات در یک مجموعه داده متنی با
