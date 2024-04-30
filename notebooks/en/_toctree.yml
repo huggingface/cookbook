@@ -21,9 +21,8 @@
     title: RAG Evaluation
   - local: llm_judge
     title: Using LLM-as-a-judge for an automated and versatile evaluation
-  - local: fine_tuning_simple_task_on_single_gpu_with_fast_inference
-    title: Fine-tuning LLM on a simple task using single GPU with fast inference
-
+  - local: fine_tuning_llm_for_generate_persian_product_catalogs_in_json_format
+    title: Fine-tuning LLM for Generate Persian Product Catalogs in JSON Format
 
 - title: Diffusion Recipes
   sections:
