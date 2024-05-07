@@ -29,6 +29,8 @@
 
 - title: Multimodal Recipes
   sections:
+  - local: analyzing_art_with_hf_and_fiftyone
+    title: Analyzing Artistic Styles with Multimodal Embeddings
   - local: faiss_with_hf_datasets_and_clip
     title: Embedding multimodal data for similarity search
     
