@@ -1,50 +1,11 @@
-- title: Open-Source AI Cookbook
+- title: Книга Open-Source AI рецептов
   sections:
   - local: index
-    title: Open-Source AI Cookbook
-    
-- title: LLM Recipes
-  sections:
-  - local: automatic_embedding_tei_inference_endpoints
-    title: Automatic Embeddings with TEI through Inference Endpoints
-  - local: tgi_messages_api_demo
-    title: Migrating from OpenAI to Open LLMs Using TGI's Messages API
-  - local: advanced_rag
-    title: Advanced RAG on HuggingFace documentation using LangChain
-  - local: labelling_feedback_setfit
-    title: Suggestions for Data Annotation with SetFit in Zero-shot Text Classification
-  - local: fine_tuning_code_llm_on_single_gpu
-    title: Fine-tuning a Code LLM on Custom Code on a single GPU
-  - local: prompt_tuning_peft
-    title: Prompt tuning with PEFT
-  - local: rag_evaluation
-    title: RAG Evaluation
-  - local: llm_judge
-    title: Using LLM-as-a-judge for an automated and versatile evaluation
-
-- title: Diffusion Recipes
-  sections:
-  - local: stable_diffusion_interpolation
-    title: Stable Diffusion Interpolation
-
-- title: Multimodal Recipes
-  sections:
-  - local: faiss_with_hf_datasets_and_clip
-    title: Embedding multimodal data for similarity search
+    title: Книга Open-Source AI рецептов
     
 - title: LLM and RAG recipes with other Libraries
   sections:
-  - local: issues_in_text_dataset
-    title: Detecting Issues in a Text Dataset with Cleanlab
-  - local: annotate_text_data_transformers_via_active_learning
-    title: Annotate text data using Active Learning with Cleanlab
   - local: rag_with_hugging_face_gemma_mongodb
-    title: Building A RAG System with Gemma, MongoDB and Open Source Models
+    title: Создание системы RAG с помощью Gemma, MongoDB и моделей с открытым исходным кодом
   - local: rag_zephyr_langchain
-    title: Simple RAG using Hugging Face Zephyr and LangChain
-  - local: rag_llamaindex_librarian
-    title: RAG "Librarian" Using LlamaIndex
-  - local: pipeline_notus_instructions_preferences_legal
-    title: Create a legal preference dataset
-  - local: semantic_cache_chroma_vector_database
-    title: Implementing semantic cache to improve a RAG system.
+    title: Простой RAG для проблем GitHub с использованием Hugging Face Zephyr и LangChain
