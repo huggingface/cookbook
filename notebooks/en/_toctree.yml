@@ -50,8 +50,6 @@
     title: Create a legal preference dataset
   - local: semantic_cache_chroma_vector_database
     title: Implementing semantic cache to improve a RAG system.
-  - local: llm_judge
-    title: Using LLM-as-a-judge for an automated and versatile evaluation
   - local: agents
     title: Build an agent with tool-calling superpowers using Transformers Agents
 
