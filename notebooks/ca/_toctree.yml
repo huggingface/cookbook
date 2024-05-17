@@ -2,5 +2,8 @@
   sections:
   - local: index
     title: Open-Source AI Cookbook
- - local: rag_zephyr_langchain
+
+- title: LLM and RAG recipes with other Libraries
+  sections:
+  - local: rag_zephyr_langchain
     title: Simple RAG using Hugging Face Zephyr and LangChain
