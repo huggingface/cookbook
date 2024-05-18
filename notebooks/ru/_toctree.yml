@@ -3,7 +3,7 @@
   - local: index
     title: Книга Open-Source AI рецептов
     
-- title: LLM and RAG recipes with other Libraries
+- title: Рецепты LLM и RAG с использованием сторонних библиотек
   sections:
   - local: rag_with_hugging_face_gemma_mongodb
     title: Создание системы RAG с помощью Gemma, MongoDB и моделей с открытым исходным кодом

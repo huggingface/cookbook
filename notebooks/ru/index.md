@@ -10,10 +10,10 @@
 - [Создание системы RAG с помощью Gemma, MongoDB и моделей с открытым исходным кодом](rag_with_hugging_face_gemma_mongodb)
 - [Простой RAG для проблем GitHub с использованием Hugging Face Zephyr и LangChain](rag_zephyr_langchain)
 
-Вы также можете посмотреть блокноты в книге рецептов [репозитории GitHub](https://github.com/huggingface/cookbook).
+Вы также можете посмотреть блокноты в книге рецептов [репозитория GitHub](https://github.com/huggingface/cookbook).
 
 ## Вклад
 
 Книга Open-Source AI рецептов - это работа сообщества, и мы приветствуем вклад каждого!
 Изучите [Руководство по внесению вклада](https://github.com/huggingface/cookbook/blob/main/README.md) в книгу рецептов, чтобы
-узнать как добавить свой "рецепт".
+узнать как добавить свой рецепт.
