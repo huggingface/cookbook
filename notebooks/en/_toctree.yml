@@ -50,8 +50,8 @@
     title: Create a legal preference dataset
   - local: semantic_cache_chroma_vector_database
     title: Implementing semantic cache to improve a RAG system.
-  - local: constrained_generation
-    title: RAG with source highlighting using Constrained generation
+  - local: structured_generation
+    title: RAG with source highlighting using Structured generation
 
 - title: Computer Vision
   sections:
