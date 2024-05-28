@@ -63,7 +63,7 @@
   - local: agents
     title: Build an agent with tool-calling superpowers using Transformers Agents
 
-- title: Enterprise Hub Cookbook
+- title: Enterprise Hub recipes
   sections:
   - local: enterprise_cookbook_overview
     title: Overview
