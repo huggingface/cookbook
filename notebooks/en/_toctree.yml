@@ -1,12 +1,12 @@
 - title: Open-Source AI Cookbook
+  isExpanded: True
   sections:
-  - isExpanded: True
     - local: index
       title: Overview
 
   - title: LLM Recipes
+    isExpanded: false
     sections:
-    - isExpanded: false
       - local: automatic_embedding_tei_inference_endpoints
         title: Automatic Embeddings with TEI through Inference Endpoints
       - local: tgi_messages_api_demo
@@ -25,22 +25,22 @@
         title: Using LLM-as-a-judge for an automated and versatile evaluation
 
   - title: Diffusion Recipes
+    isExpanded: false
     sections:
-    - isExpanded: false
       - local: stable_diffusion_interpolation
         title: Stable Diffusion Interpolation
 
   - title: Multimodal Recipes
+    isExpanded: false
     sections:
-    - isExpanded: false
       - local: analyzing_art_with_hf_and_fiftyone
         title: Analyzing Artistic Styles with Multimodal Embeddings
       - local: faiss_with_hf_datasets_and_clip
         title: Embedding multimodal data for similarity search
         
   - title: LLM and RAG Recipes with other Libraries
+    isExpanded: false
     sections:
-    - isExpanded: false
       - local: issues_in_text_dataset
         title: Detecting Issues in a Text Dataset with Cleanlab
       - local: annotate_text_data_transformers_via_active_learning
@@ -59,19 +59,19 @@
         title: RAG with source highlighting using Structured generation
 
   - title: Computer Vision Recipes
+    isExpanded: false
     sections:
-    - isExpanded: false
       - local: fine_tuning_vit_custom_dataset
         title: Fine-tuning a Vision Transformer Model With a Custom Biomedical Dataset
 
   - title: Agents Recipes
+    isExpanded: false
     sections:
-    - isExpanded: false
       - local: agents
         title: Build an agent with tool-calling superpowers using Transformers Agents
 
 - title: 🤗 Enterprise Hub Cookbook
+  isExpanded: False
   sections:
-  - isExpanded: True
     - local: enterprise_cookbook_overview
       title: Overview
