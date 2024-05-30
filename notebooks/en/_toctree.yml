@@ -67,3 +67,5 @@
   sections:
   - local: enterprise_cookbook_overview
     title: Overview
+  - local: enterprise_cookbook_argilla
+    title: Data annotation with Argilla Spaces
