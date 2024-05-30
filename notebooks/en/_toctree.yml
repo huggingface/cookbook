@@ -24,20 +24,6 @@
         - local: llm_judge
           title: Using LLM-as-a-judge for an automated and versatile evaluation
 
-    - title: Diffusion Recipes
-      isExpanded: false
-      sections:
-        - local: stable_diffusion_interpolation
-          title: Stable Diffusion Interpolation
-
-    - title: Multimodal Recipes
-      isExpanded: false
-      sections:
-        - local: analyzing_art_with_hf_and_fiftyone
-          title: Analyzing Artistic Styles with Multimodal Embeddings
-        - local: faiss_with_hf_datasets_and_clip
-          title: Embedding multimodal data for similarity search
-
     - title: LLM and RAG Recipes with other Libraries
       isExpanded: false
       sections:
@@ -63,6 +49,20 @@
       sections:
         - local: fine_tuning_vit_custom_dataset
           title: Fine-tuning a Vision Transformer Model With a Custom Biomedical Dataset
+
+    - title: Diffusion Recipes
+      isExpanded: false
+      sections:
+        - local: stable_diffusion_interpolation
+          title: Stable Diffusion Interpolation
+
+    - title: Multimodal Recipes
+      isExpanded: false
+      sections:
+        - local: analyzing_art_with_hf_and_fiftyone
+          title: Analyzing Artistic Styles with Multimodal Embeddings
+        - local: faiss_with_hf_datasets_and_clip
+          title: Embedding multimodal data for similarity search
 
     - title: Agents Recipes
       isExpanded: false
