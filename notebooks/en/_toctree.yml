@@ -52,6 +52,8 @@
     title: Implementing semantic cache to improve a RAG system.
   - local: structured_generation
     title: RAG with source highlighting using Structured generation
+  - local: rag_with_unstructured_data
+    title: Building RAG with Custom Unstructured Data
 
 - title: Computer Vision
   sections:
