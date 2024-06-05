@@ -71,7 +71,7 @@
           title: Build an agent with tool-calling superpowers using Transformers Agents
 
 - title: Enterprise Hub Cookbook
-  isExpanded: False
+  isExpanded: True
   sections:
   - local: enterprise_cookbook_overview
     title: Overview
