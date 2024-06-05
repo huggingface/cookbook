@@ -67,7 +67,7 @@
   sections:
   - local: enterprise_cookbook_overview
     title: Overview
-  - local: enterprise_cookbook_argilla
-    title: Data annotation with Argilla Spaces
   - local: enterprise_hub_serverless_inference_api
     title: Inference API (Serverless)
+  - local: enterprise_cookbook_argilla
+    title: Data annotation with Argilla Spaces
