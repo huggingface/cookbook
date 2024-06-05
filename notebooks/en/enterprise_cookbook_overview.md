@@ -11,7 +11,7 @@ With JupyterLab Spaces you can spin up your personal Jupyter Notebook like in Go
 For more details, read also the [JupyterLab Spaces](https://huggingface.co/docs/hub/spaces-sdks-docker-jupyter) and the [Dev Mode](https://huggingface.co/dev-mode-explorers) documentation.
 
 
-## Inference API (Serverless)  (coming soon)
+## Inference API (Serverless)
 With our serverless Inference API, you can test a range of open source models with simple API calls (e.g. generative LLMs, efficient embedding models, or image generators). The serverless Inference API is rate limited and mostly intended for initial testing or low-volume use. Read this recipe to learn how to query the serverless Inference API.
 
 For more details, read also the [serverless API](https://huggingface.co/docs/api-inference/index) documentation.
