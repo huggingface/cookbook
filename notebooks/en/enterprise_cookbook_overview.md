@@ -5,7 +5,7 @@ The Enterprise Hub Cookbook is designed for power users and enterprises who want
 <Youtube id="CPQGBn-yXJQ"/>
 
 
-## Interactive Development in HF Spaces  (coming soon)
+## [Interactive Development in HF Spaces](enterprise_cookbook_dev_spaces.md)
 With JupyterLab Spaces you can spin up your personal Jupyter Notebook like in Google Colab, only with a wider selection of more reliable CPUs and GPUs (e.g. H100 or 4xA10G) that you can select and switch on the fly. Moreover, by activating Spaces Dev Mode you can also use this cloud hardware from your local IDE (e.g. VS Code). Read this recipe to learn how to spin up a GPU and connect to it via your local IDE.
 
 For more details, read also the [JupyterLab Spaces](https://huggingface.co/docs/hub/spaces-sdks-docker-jupyter) and the [Dev Mode](https://huggingface.co/dev-mode-explorers) documentation.
