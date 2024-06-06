@@ -1,12 +1,12 @@
-# Open-Source AI Cookbook
+# Hugging Face Cookbook
 
-This repo contains community-driven practical examples of building AI applications and solving various tasks with AI 
+The Hugging Face Cookbook is a community-driven collection of recipes (Jupyter Notebooks) with practical examples of building AI applications and solving various tasks with AI 
 using open-source tools and models. 
 
 ## Contributing to the cookbook
 
 Everyone is welcome to contribute, and we value everybody's contribution! There are several ways you can contribute to 
-the [Open-Source AI Cookbook](https://huggingface.co/learn/cookbook/index):
+the [Hugging Face Cookbook](https://huggingface.co/learn/cookbook/index):
 
 * Submit an idea for a desired example/guide via [GitHub Issues](https://github.com/huggingface/cookbook/issues).
 * Contribute a new notebook with a practical example.
@@ -40,7 +40,7 @@ Here are some tips:
 * If using any images in the markdown, upload them to the [huggingface/cookbook-images](https://huggingface.co/datasets/huggingface/cookbook-images) dataset. Then use the link to the image in your markdown, e.g.:
 ```![RAG diagram](https://huggingface.co/datasets/huggingface/cookbook-images/resolve/main/rag-diagram.png)```
 
-Once your pull request is merged, the notebook will show up in the [Open-Source AI Cookbook](https://hf.co/learn/cookbook).
+Once your pull request is merged, the notebook will show up in the [Hugging Face Cookbook](https://hf.co/learn/cookbook).
 
 ### Translating the Cookbook into your language
 
