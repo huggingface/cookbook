@@ -73,6 +73,8 @@
   sections:
   - local: enterprise_cookbook_overview
     title: Overview
+  - local: enterprise_hub_serverless_inference_api
+    title: Inference API (Serverless)
   - local: enterprise_cookbook_dev_spaces
     title: Interactive Development In HF Spaces
   - local: enterprise_cookbook_argilla
