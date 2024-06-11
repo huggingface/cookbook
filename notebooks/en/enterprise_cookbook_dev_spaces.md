@@ -22,7 +22,7 @@ To create your own HF JupyterLab Space, navigate to the [Space creation page](ht
 - **Choosing the correct owner**: If you are using the JupyterLab Space as part of your work for an Enterprise Hub Organization, select the organization's name under the `Owner` dropdown (e.g. the dummy "enterprise-explorers" in the image below). Any compute costs will then be billed on the account of this Enterprise Organization. 
 - **Access control**: If you want only selected members of your team to access the JupyterLab Space, you can click on `Everyone` right next to `Access Control` and limit access to the JupyterLab Space to a predefined Resource Group. Resource Groups are an Enterprise Hub feature that enables you to limit access to selected repositories (models, datasets, Spaces) to a smaller group of team members. See the [docs](https://huggingface.co/docs/hub/en/security-resource-groups) on how to create your first Resource Group.
 
-<div style="text-align: center;">
+<div style="flex justify-center">
     <img src="https://huggingface.co/datasets/huggingface/cookbook-images/resolve/main/enterprise-jupyterlab-creation-1.png" width="450">  
 </div>
 
@@ -32,13 +32,13 @@ To create your own HF JupyterLab Space, navigate to the [Space creation page](ht
 - **Dev Mode**: Dev Mode is a feature for Enterprise Hub subscribers that enables you to SSH into any HF Space. Activate this to connect your local VS Code for remote development on the Space's cloud hardware (this can also be switched on/off later). See the preview docs [here](https://huggingface.co/dev-mode-explorers). 
 - **Private Spaces**: As an additional layer of security, we recommend setting the Space to private, so that only members of your Enterprise Organization (and of specific Resource Groups) can see it.
 
-<div style="text-align: center;">
+<div style="flex justify-center">
     <img src="https://huggingface.co/datasets/huggingface/cookbook-images/resolve/main/enterprise-jupyterlab-creation-2.png" width="450">
 </div>
 
 Once you have configured the JupyterLab Space, you can click on `Create Space`. The Space will be built and after a few seconds you will see the JupyterLab login screen. You can now login with the password you defined before. 
 
-<div style="text-align: center;">
+<div style="flex justify-center">
     <img src="https://huggingface.co/datasets/huggingface/cookbook-images/resolve/main/enterprise-jupyterlab-login.png">
 </div>
 
@@ -47,7 +47,7 @@ Once you have configured the JupyterLab Space, you can click on `Create Space`. 
 
 You can now work in your own JupyterLab Space in the browser! You can create your own directory structure with .ipynb notebooks or any other files and datasets in the File Browser on the left. If you have activated persistent storage, all files are permanently stored in the default `/data` directory of the Space. 
 
-<div style="text-align: center;">
+<div style="flex justify-center">
     <img src="https://huggingface.co/datasets/huggingface/cookbook-images/resolve/main/enterprise-jupyterlab-first-notebook.png">
 </div>
 
@@ -58,7 +58,7 @@ Similar to services like Google Colab, you can change the hardware the Space is 
 
 In the bottom left of the image, you can also see the `Sleep time settings` where you can define how long you want the hardware to run in case of inactivity. This is a major advantage over Google Colab. If you want to save money, you can make the Space sleep after 15 minutes of inactivity, but if you need the hardware to be available for a 48 hour training run or longer, you can just prevent the Space from falling asleep and let it run for as long as you want. You can also manually `Pause` the Space and you will no longer be charged for the Space Hardware. 
 
-<div style="text-align: center;">
+<div style="flex justify-center">
     <img src="https://huggingface.co/datasets/huggingface/cookbook-images/resolve/main/enterprise-jupyterlab-hardware-options.png">
 </div>
 
@@ -72,7 +72,7 @@ If you scroll down in the settings, you will see additional options, like expand
 
 Remember that your JupyterLab Space is just a pre-configured Docker container, so if you are familiar with Docker, you can also customize it to your needs. For example, you can go to the `Files` section of your Space and add new requirements to the `requirements.txt` file or you can change from the default container image to another image in the `Dockerfile`, e.g. if you need a specific CUDA and PyTorch version preinstalled. 
 
-<div style="text-align: center;">
+<div style="flex justify-center">
     <img src="https://huggingface.co/datasets/huggingface/cookbook-images/resolve/main/enterprise-jupyterlab-files.png">
 </div>
 
@@ -85,7 +85,7 @@ What if you don't like working in JupyterLab in the browser? Enter `Dev Mode`. `
 
 Once `Dev Mode` is activated, you will see a pop-up at the bottom left of your JupyterLab Space's window. To SSH into your local VS Code, you first need to install the [VS Code Remote - SSH extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh) locally and add your SSH key to your [HF Profile](https://huggingface.co/settings/keys). Clicking on `Connect with VS Code` should then open your local VS Code window and establish the remote connection to your Space. A similar process should be possible with any IDE that supports remote development with SSH. 
 
-<div style="text-align: center;">
+<div style="flex justify-center">
     <img src="https://huggingface.co/datasets/huggingface/cookbook-images/resolve/main/enterprise-jupyterlab-devmode-popup.png" width="450">
 </div>
 
