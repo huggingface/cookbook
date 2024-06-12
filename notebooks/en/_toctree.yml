@@ -78,4 +78,4 @@
   - local: enterprise_cookbook_dev_spaces
     title: Interactive Development In HF Spaces
   - local: enterprise_cookbook_argilla
-    title: data_annotation_with_argilla_spaces
+    title: Data Annotation with Argilla Spaces
