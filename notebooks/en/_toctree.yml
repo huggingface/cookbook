@@ -23,10 +23,6 @@
           title: RAG Evaluation
         - local: llm_judge
           title: Using LLM-as-a-judge for an automated and versatile evaluation
-
-    - title: LLM and RAG Recipes with other Libraries
-      isExpanded: false
-      sections:
         - local: issues_in_text_dataset
           title: Detecting Issues in a Text Dataset with Cleanlab
         - local: annotate_text_data_transformers_via_active_learning
@@ -45,6 +41,8 @@
           title: RAG with source highlighting using Structured generation
         - local: rag_with_unstructured_data
           title: Building RAG with Custom Unstructured Data
+        - local: llm_gateway_pii_detection
+          title: LLM Gateway for PII Detection
 
     - title: Computer Vision Recipes
       isExpanded: false
@@ -79,7 +77,8 @@
     title: Overview
   - local: enterprise_cookbook_dev_spaces
     title: Interactive Development In HF Spaces
+  - local: enterprise_hub_serverless_inference_api
+    title: Inference API (Serverless)
   - local: enterprise_cookbook_argilla
     title: Data annotation with Argilla Spaces
-  - local: llm_gateway_pii_detection
-    title: LLM Gateway for PII Detection
+
