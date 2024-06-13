@@ -41,6 +41,8 @@
           title: RAG with source highlighting using Structured generation
         - local: rag_with_unstructured_data
           title: Building RAG with Custom Unstructured Data
+        - local: llm_gateway_pii_detection
+          title: LLM Gateway for PII Detection
 
     - title: Computer Vision Recipes
       isExpanded: false
@@ -78,4 +80,5 @@
   - local: enterprise_hub_serverless_inference_api
     title: Inference API (Serverless)
   - local: enterprise_cookbook_argilla
-    title: Data Annotation with Argilla Spaces
+    title: Data annotation with Argilla Spaces
+
