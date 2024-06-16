@@ -44,7 +44,9 @@
           title: Building RAG with Custom Unstructured Data
         - local: fine_tuning_llm_for_generate_persian_product_catalogs_in_json_format
           title: Fine-tuning LLM for Generate Persian Product Catalogs in JSON Format
-
+        - local: llm_gateway_pii_detection
+          title: LLM Gateway for PII Detection
+          
     - title: Computer Vision Recipes
       isExpanded: false
       sections:
@@ -76,9 +78,10 @@
   sections:
   - local: enterprise_cookbook_overview
     title: Overview
-  - local: enterprise_hub_serverless_inference_api
-    title: Inference API (Serverless)
   - local: enterprise_cookbook_dev_spaces
     title: Interactive Development In HF Spaces
+  - local: enterprise_hub_serverless_inference_api
+    title: Inference API (Serverless)
   - local: enterprise_cookbook_argilla
-    title: data_annotation_with_argilla_spaces
+    title: Data annotation with Argilla Spaces
+
