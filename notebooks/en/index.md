@@ -12,7 +12,7 @@ Check out the recently added notebooks:
 - [Create a legal preference dataset](pipeline_notus_instructions_preferences_legal)
 - [Suggestions for Data Annotation with SetFit in Zero-shot Text Classification](labelling_feedback_setfit)
 - [Building RAG with Custom Unstructured Data](rag_with_unstructured_data)
-- [Fine-tuning LLM for Generate Persian Product Catalogs in JSON Format](fine_tuning_llm_for_generate_persian_product_catalogs_in_json_format)
+- [Fine-tuning LLM to Generate Persian Product Catalogs in JSON Format](fine_tuning_llm_to_generate_persian_product_catalogs_in_json_format)
 
 You can also check out the notebooks in the cookbook's [GitHub repo](https://github.com/huggingface/cookbook).
 
