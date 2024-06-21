@@ -27,6 +27,8 @@
           title: Detecting Issues in a Text Dataset with Cleanlab
         - local: annotate_text_data_transformers_via_active_learning
           title: Annotate text data using Active Learning with Cleanlab
+        - local: rag_with_hugging_face_gemma_elasticsearch
+          title: Building a RAG System with Gemma, Elasticsearch and Open Source Models
         - local: rag_with_hugging_face_gemma_mongodb
           title: Building A RAG System with Gemma, MongoDB and Open Source Models
         - local: rag_zephyr_langchain
