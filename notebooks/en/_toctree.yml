@@ -1,3 +1,4 @@
+
 - title: Open-Source AI Cookbook
   isExpanded: True
   sections:
@@ -41,9 +42,11 @@
           title: RAG with source highlighting using Structured generation
         - local: rag_with_unstructured_data
           title: Building RAG with Custom Unstructured Data
+        - local: fine_tuning_llm_to_generate_persian_product_catalogs_in_json_format
+          title: Fine-tuning LLM to Generate Persian Product Catalogs in JSON Format
         - local: llm_gateway_pii_detection
           title: LLM Gateway for PII Detection
-
+          
     - title: Computer Vision Recipes
       isExpanded: false
       sections:
