@@ -37,7 +37,7 @@ With AutoTrain Spaces, you can train your own machine learning models in a simpl
 See also the [AutoTrain](https://huggingface.co/docs/autotrain/index) documentation to learn more.
 
 
-## Creating private demos with Spaces and Gradio  (coming soon)
+## Creating private demos with Spaces and Gradio
 
 Visual demos speak louder than words. Demos are particularly important if you want to convince stakeholders of a machine learning minimum viable product (MVP). Read this recipe to learn how to create a private machine learning demo on Spaces with Gradio.
 
