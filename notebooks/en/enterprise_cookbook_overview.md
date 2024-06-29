@@ -17,7 +17,7 @@ With our serverless Inference API, you can test a range of open source models wi
 For more details, read also the [serverless API](https://huggingface.co/docs/api-inference/index) documentation.
 
 
-## Inference Endpoints (dedicated)  (coming soon)
+## Inference Endpoints (dedicated)
 
 With our dedicated Inference Endpoints, you can easily deploy any model on a wide range of hardware, essentially creating your personal production-ready API in a few clicks. Read this recipe to learn how to create and configure your own dedicated Endpoint.
 
