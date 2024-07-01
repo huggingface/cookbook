@@ -1,0 +1,6 @@
+- title: 오픈소스 AI Cookbook
+  sections:
+  - local: index
+    title: 오픈소스 AI Cookbook
+  - local: advanced_ko_rag
+    title: 한국어로 Advanced RAG 구현하기 - Hugging Face와 LangChain 활용한 Cookbook
