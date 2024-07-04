@@ -87,4 +87,4 @@
   - local: enterprise_cookbook_argilla
     title: Data annotation with Argilla Spaces
   - local: enterprise_cookbook_gradio
-    title: Creating private demos with Spaces and Gradio
+    title: Creating demos with Spaces and Gradio
