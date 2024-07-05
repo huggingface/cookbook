@@ -63,4 +63,4 @@
   - local: agents
     title: Build an agent with tool-calling superpowers using Transformers Agents
   - local: agent_rag
-    title: Self-correcting RAG with an Agent
+    title: Agentic RAG - turbocharge your RAG with query reformulation and self-query
