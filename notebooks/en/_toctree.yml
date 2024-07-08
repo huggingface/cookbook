@@ -74,6 +74,8 @@
       sections:
         - local: agents
           title: Build an agent with tool-calling superpowers using Transformers Agents
+        - local: agent_rag
+          title: Agentic RAG - turbocharge your RAG with query reformulation and self-query
 
 - title: Enterprise Hub Cookbook
   isExpanded: True
@@ -84,6 +86,8 @@
     title: Interactive Development In HF Spaces
   - local: enterprise_hub_serverless_inference_api
     title: Inference API (Serverless)
+  - local: enterprise_dedicated_endpoints
+    title: Inference Endpoints (Dedicated)
   - local: enterprise_cookbook_argilla
     title: Data annotation with Argilla Spaces
   - local: enterprise_cookbook_gradio
