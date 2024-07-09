@@ -55,4 +55,4 @@ sections:
 - title: 智能体
   sections:
     - local: agent_rag
-      title: 智能体 RAG 通过查询重写和自我查询来为你的 RAG 加速！
+      title: 智能体 RAG 通过查询重构和自查询来增强你的 RAG 
