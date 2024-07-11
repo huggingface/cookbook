@@ -15,6 +15,8 @@ sections:
       title: 使用 SetFit 进行零样本文本分类的数据标注建议
     - local: fine_tuning_code_llm_on_single_gpu
       title: 在单个 GPU 上针对自定义代码微调代码 LLM
+    - local: rag_with_hugging_face_gemma_elasticsearch
+      title: 构建一个基于 Gemma、Elasticsearch 和 Hugging Face 模型的 RAG 系统
     - local: prompt_tuning_peft
       title: 使用 PEFT 进行提示微调
     - local: rag_evaluation
