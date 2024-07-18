@@ -20,6 +20,8 @@
           title: Fine-tuning a Code LLM on Custom Code on a single GPU
         - local: prompt_tuning_peft
           title: Prompt tuning with PEFT
+        - local: rag_with_hf_and_milvus
+          title: RAG with Hugging Face and Milvus
         - local: rag_evaluation
           title: RAG Evaluation
         - local: llm_judge
