@@ -7,6 +7,7 @@ applications and solving various machine learning tasks using open-source tools 
 
 Check out the recently added notebooks:
 
+- [Code Search with Vector Embeddings and Qdrant](code_search)
 - [Fine-tuning a Vision Transformer Model With a Custom Biomedical Dataset](fine_tuning_vit_custom_dataset)
 - [Using LLM-as-a-judge 🧑‍⚖️ for an automated and versatile evaluation](llm_judge)
 - [Create a legal preference dataset](pipeline_notus_instructions_preferences_legal)
