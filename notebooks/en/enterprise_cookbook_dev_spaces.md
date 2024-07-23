@@ -1,5 +1,7 @@
 
 # Interactive Development In HF Spaces
+_Authored by: [Moritz Laurer](https://huggingface.co/MoritzLaurer)_
+
 
 Services like Google Colab or Kaggle Notebooks have made it dramatically easier for people to access compute in easy-to-use Jupyter notebooks in the browser. Unfortunately, these services also have several limitations: 
 - GPUs are unstable, and a training job can be canceled right before it finishes.
