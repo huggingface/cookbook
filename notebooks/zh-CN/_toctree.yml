@@ -21,6 +21,8 @@ sections:
       title: 使用 PEFT 进行提示微调
     - local: structured_generation
       title: 使用结构化生成进行带源高亮的 RAG 
+    - local: rag_with_unstructured_data
+      title: 使用自定义非结构化数据构建 RAG
     - local: rag_evaluation
       title: 使用合成数据和 LLM 作为裁判评估 RAG
     - local: llm_judge
