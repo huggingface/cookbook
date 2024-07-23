@@ -13,6 +13,7 @@ Check out the recently added notebooks:
 - [Suggestions for Data Annotation with SetFit in Zero-shot Text Classification](labelling_feedback_setfit)
 - [Building RAG with Custom Unstructured Data](rag_with_unstructured_data)
 - [Fine-tuning LLM to Generate Persian Product Catalogs in JSON Format](fine_tuning_llm_to_generate_persian_product_catalogs_in_json_format)
+- [Information Extraction with Haystack and NuExtract](information_extraction_haystack_nuextract)
 
 You can also check out the notebooks in the cookbook's [GitHub repo](https://github.com/huggingface/cookbook).
 
