@@ -1,0 +1,11 @@
+- title: Книга Open-Source AI рецептов
+  sections:
+  - local: index
+    title: Книга Open-Source AI рецептов
+    
+- title: Рецепты LLM и RAG с использованием сторонних библиотек
+  sections:
+  - local: rag_with_hugging_face_gemma_mongodb
+    title: Создание системы RAG с помощью Gemma, MongoDB и моделей с открытым исходным кодом
+  - local: rag_zephyr_langchain
+    title: Простой RAG для проблем GitHub с использованием Hugging Face Zephyr и LangChain
