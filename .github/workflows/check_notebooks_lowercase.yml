@@ -14,7 +14,7 @@ jobs:
         # Change to the directory where you want to check filenames
         cd notebooks
         # Find files with uppercase characters in their names
-        files=$(find . -type f | grep '[A-Z]' || true)
+        files=$(find . -type f -name '*.ipynb' -exec basename {} \;| grep '[A-Z]' || true)
         if [ -n "$files" ]; then
             echo "The following files are not lowercase:"
             echo "$files"
