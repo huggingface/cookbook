@@ -48,6 +48,10 @@
           title: Fine-tuning LLM to Generate Persian Product Catalogs in JSON Format
         - local: llm_gateway_pii_detection
           title: LLM Gateway for PII Detection
+        - local: information_extraction_haystack_nuextract
+          title: Information Extraction with Haystack and NuExtract
+        - local: code_search
+          title: Code Search With Vector Embeddings Using Qdrant
           
     - title: Computer Vision Recipes
       isExpanded: false
