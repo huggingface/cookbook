@@ -84,6 +84,8 @@
           title: Create a Transformers Agent from any LLM inference provider
         - local: agent_text_to_sql
           title: Agent for Text-to-SQL with automatic error correction
+        - local: agent_data_analyst
+          title: Data analyst agent - get your data's insights in the blink of an eye
 
 - title: Enterprise Hub Cookbook
   isExpanded: True
