@@ -52,6 +52,8 @@
           title: Information Extraction with Haystack and NuExtract
         - local: code_search
           title: Code Search With Vector Embeddings Using Qdrant
+        - local: rag_with_sql_reranker
+          title: RAG backed by SQL and Jina Reranker
           
     - title: Computer Vision Recipes
       isExpanded: false

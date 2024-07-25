@@ -15,6 +15,7 @@ Check out the recently added notebooks:
 - [Building RAG with Custom Unstructured Data](rag_with_unstructured_data)
 - [Fine-tuning LLM to Generate Persian Product Catalogs in JSON Format](fine_tuning_llm_to_generate_persian_product_catalogs_in_json_format)
 - [Information Extraction with Haystack and NuExtract](information_extraction_haystack_nuextract)
+- [RAG backed by SQL and Jina Reranker](rag_with_sql_reranker)
 
 You can also check out the notebooks in the cookbook's [GitHub repo](https://github.com/huggingface/cookbook).
 
