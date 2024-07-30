@@ -5,6 +5,7 @@
 ## 最新 Notebook
 
 查看最近添加的 Notebook：
+- [使用 Hugging Face 和 Milvus 构建 RAG 系统](rag_with_hf_and_milvus)
 - [通过推理端点使用 TEI 自动嵌入](automatic_embedding_tei_inference_endpoints)
 - [用 Hugging Face Zephyr 和 LangChain 针对 Github issues 构建简单的 RAG](rag_zephyr_langchain)
 - [用 🤗 transformers, 🤗 datasets 和 FAISS 嵌入多模态数据进行相似度搜索](faiss_with_hf_datasets_and_clip)
