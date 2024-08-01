@@ -16,6 +16,8 @@ Check out the recently added notebooks:
 - [RAG with Hugging Face and Milvus](rag_with_hf_and_milvus)
 - [Data analyst agent: get your data’s insights in the blink of an eye ✨](agent_data_analyst)
 - [Code Search with Vector Embeddings and Qdrant](code_search)
+- [RAG backed by SQL and Jina Reranker](rag_with_sql_reranker)
+
 
 You can also check out the notebooks in the cookbook's [GitHub repo](https://github.com/huggingface/cookbook).
 
