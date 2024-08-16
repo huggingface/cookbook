@@ -56,7 +56,9 @@
           title: Code Search With Vector Embeddings Using Qdrant
         - local: rag_with_sql_reranker
           title: RAG backed by SQL and Jina Reranker
-          
+        - local: benchmarking_tgi
+          title: Benchmarking TGI
+
     - title: Computer Vision Recipes
       isExpanded: false
       sections:

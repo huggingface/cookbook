@@ -7,6 +7,7 @@ applications and solving various machine learning tasks using open-source tools 
 
 Check out the recently added notebooks:
 
+- [Benchmarking TGI](benchmarking_tgi)
 - [Building RAG with Custom Unstructured Data](rag_with_unstructured_data)
 - [Agentic RAG: turbocharge your RAG with query reformulation and self-query! 🚀](agent_rag)
 - [Create a Transformers Agent from any LLM inference provider](agent_change_llm)
