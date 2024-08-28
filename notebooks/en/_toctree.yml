@@ -38,8 +38,6 @@
           title: Simple RAG using Hugging Face Zephyr and LangChain
         - local: rag_llamaindex_librarian
           title: RAG "Librarian" Using LlamaIndex
-        - local: pipeline_notus_instructions_preferences_legal
-          title: Create a legal preference dataset
         - local: semantic_cache_chroma_vector_database
           title: Implementing semantic cache to improve a RAG system.
         - local: structured_generation
@@ -56,9 +54,13 @@
           title: Code Search With Vector Embeddings Using Qdrant
         - local: rag_with_sql_reranker
           title: RAG backed by SQL and Jina Reranker
+        - local: generate_preference_dataset_distilabel
+          title: Generate a Preference Dataset with distilabel
+        - local: clean_dataset_judges_distilabel
+          title: Clean an Existing Preference Dataset with LLMs as Judges
         - local: benchmarking_tgi
           title: Benchmarking TGI
-
+          
     - title: Computer Vision Recipes
       isExpanded: false
       sections:
