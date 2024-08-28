@@ -7,6 +7,7 @@ applications and solving various machine learning tasks using open-source tools 
 
 Check out the recently added notebooks:
 
+- [Benchmarking TGI](benchmarking_tgi)
 - [Generate a Preference Dataset with distilabel](generate_preference_dataset_distilabel)
 - [Clean an Existing Preference Dataset with LLMs as Judges](clean_dataset_judges_distilabel)
 - [Building RAG with Custom Unstructured Data](rag_with_unstructured_data)

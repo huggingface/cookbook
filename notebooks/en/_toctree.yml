@@ -58,6 +58,8 @@
           title: Generate a Preference Dataset with distilabel
         - local: clean_dataset_judges_distilabel
           title: Clean an Existing Preference Dataset with LLMs as Judges
+        - local: benchmarking_tgi
+          title: Benchmarking TGI
           
     - title: Computer Vision Recipes
       isExpanded: false
