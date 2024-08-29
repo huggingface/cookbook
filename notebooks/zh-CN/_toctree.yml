@@ -2,7 +2,7 @@ title: 开源 AI 指南 (Cookbook)
 sections:
   - local: index
     title: 开源 AI 指南 (Cookbook)
-
+    
 - title: LLM 系列
   sections:
     - local: automatic_embedding_tei_inference_endpoints

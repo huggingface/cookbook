@@ -7,12 +7,18 @@ applications and solving various machine learning tasks using open-source tools 
 
 Check out the recently added notebooks:
 
-- [Fine-tuning a Vision Transformer Model With a Custom Biomedical Dataset](fine_tuning_vit_custom_dataset)
-- [Using LLM-as-a-judge 🧑‍⚖️ for an automated and versatile evaluation](llm_judge)
-- [Create a legal preference dataset](pipeline_notus_instructions_preferences_legal)
-- [Suggestions for Data Annotation with SetFit in Zero-shot Text Classification](labelling_feedback_setfit)
+- [Benchmarking TGI](benchmarking_tgi)
+- [Generate a Preference Dataset with distilabel](generate_preference_dataset_distilabel)
+- [Clean an Existing Preference Dataset with LLMs as Judges](clean_dataset_judges_distilabel)
 - [Building RAG with Custom Unstructured Data](rag_with_unstructured_data)
+- [Agentic RAG: turbocharge your RAG with query reformulation and self-query! 🚀](agent_rag)
+- [Create a Transformers Agent from any LLM inference provider](agent_change_llm)
 - [Fine-tuning LLM to Generate Persian Product Catalogs in JSON Format](fine_tuning_llm_to_generate_persian_product_catalogs_in_json_format)
+- [Agent for text-to-SQL with automatic error correction](agent_text_to_sql)
+- [Information Extraction with Haystack and NuExtract](information_extraction_haystack_nuextract)
+- [RAG with Hugging Face and Milvus](rag_with_hf_and_milvus)
+- [Data analyst agent: get your data’s insights in the blink of an eye ✨](agent_data_analyst)
+
 
 You can also check out the notebooks in the cookbook's [GitHub repo](https://github.com/huggingface/cookbook).
 
