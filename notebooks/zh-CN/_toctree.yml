@@ -79,3 +79,5 @@
 - title: 企业级使用指南 (Cookbook)
   isExpanded: True
   sections:
+  - local: enterprise_cookbook_overview
+    title: 概览
