@@ -81,6 +81,12 @@
         - local: faiss_with_hf_datasets_and_clip
           title: Embedding multimodal data for similarity search
 
+    - title: Search Recipes
+      isExpanded: false
+      sections:
+      - local: semantic_reranking_elasticsearch
+        title: Semantic Reranking with Elasticsearch
+
     - title: Agents Recipes
       isExpanded: false
       sections:
