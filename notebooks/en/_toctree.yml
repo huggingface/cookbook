@@ -84,7 +84,7 @@
     - title: Search Recipes
       isExpanded: false
       sections:
-      - local: semantic_reranking_elasticsearch.ipynb
+      - local: semantic_reranking_elasticsearch
         title: Semantic Reranking with Elasticsearch
 
     - title: Agents Recipes
