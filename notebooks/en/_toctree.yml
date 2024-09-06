@@ -66,6 +66,8 @@
       sections:
         - local: fine_tuning_vit_custom_dataset
           title: Fine-tuning a Vision Transformer Model With a Custom Biomedical Dataset
+        - local: fine_tuning_detr_custom_dataset
+          title: Fine-Tuning Object Detection on a Custom Dataset, Deployment in Spaces, and Gradio API Integration
 
     - title: Diffusion Recipes
       isExpanded: false
