@@ -60,6 +60,8 @@
           title: Clean an Existing Preference Dataset with LLMs as Judges
         - local: benchmarking_tgi
           title: Benchmarking TGI
+        - local: rag_with_knowledge_graphs_neo4j
+          title: Enhancing RAG Reasoning with Knowledge Graphs
           
     - title: Computer Vision Recipes
       isExpanded: false
