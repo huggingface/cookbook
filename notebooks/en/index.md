@@ -7,6 +7,8 @@ applications and solving various machine learning tasks using open-source tools 
 
 Check out the recently added notebooks:
 
+- [Have several agents collaborate in a multi-agent hierarchy 🤖🤝🤖](multiagent_web_assistant)
+- [Semantic reranking with Elasticsearch](semantic_reranking_elasticsearch)
 - [Benchmarking TGI](benchmarking_tgi)
 - [Generate a Preference Dataset with distilabel](generate_preference_dataset_distilabel)
 - [Clean an Existing Preference Dataset with LLMs as Judges](clean_dataset_judges_distilabel)
