@@ -60,6 +60,8 @@
           title: Clean an Existing Preference Dataset with LLMs as Judges
         - local: benchmarking_tgi
           title: Benchmarking TGI
+        - local: rag_with_knowledge_graphs_neo4j
+          title: Enhancing RAG Reasoning with Knowledge Graphs
           
     - title: Computer Vision Recipes
       isExpanded: false
@@ -102,6 +104,8 @@
           title: Agent for Text-to-SQL with automatic error correction
         - local: agent_data_analyst
           title: Data analyst agent - get your data's insights in the blink of an eye
+        - local: multiagent_web_assistant
+          title: Have several agents collaborate in a multi-agent hierarchy
 
 - title: Enterprise Hub Cookbook
   isExpanded: True
