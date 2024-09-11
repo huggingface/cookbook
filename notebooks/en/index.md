@@ -21,6 +21,8 @@ Check out the recently added notebooks:
 - [RAG with Hugging Face and Milvus](rag_with_hf_and_milvus)
 - [Data analyst agent: get your data’s insights in the blink of an eye ✨](agent_data_analyst)
 - [Enhancing RAG Reasoning with Knowledge Graphs](rag_with_knowledge_graphs_neo4j)
+- [Fine-Tuning Object Detection on a Custom Dataset 🖼, Deployment in Spaces, and Gradio API Integration](fine_tuning_detr_custom_dataset)
+
 
 
 You can also check out the notebooks in the cookbook's [GitHub repo](https://github.com/huggingface/cookbook).
