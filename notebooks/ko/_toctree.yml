@@ -9,3 +9,9 @@
       sections:
         - local: advanced_ko_rag
           title: 한국어로 Advanced RAG 구현하기 - Hugging Face와 LangChain을 활용한 Cookbook
+    
+    - title: Multimodal 레시피
+      isExpanded: false
+      sections:
+        - local: faiss_with_hf_datasets_and_clip
+          title: 유사성 검색을 위한 멀티모달 데이터 임베딩
