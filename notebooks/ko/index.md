@@ -8,6 +8,7 @@
 
 - [한국어 Advanced RAG 구현: Hugging Face와 LangChain 활용한 Cookbook](advanced_ko_rag)
 
+- [유사성 검색을 위한 멀티모달 데이터 임베딩](faiss_with_hf_datasets_and_clip)
 
 더 다양한 노트북을 확인하고 싶다면 Cookbook's [GitHub 리포지토리](https://github.com/huggingface/cookbook)에 방문해보세요.
 
