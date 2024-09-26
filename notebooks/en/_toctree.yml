@@ -70,6 +70,8 @@
           title: Fine-tuning a Vision Transformer Model With a Custom Biomedical Dataset
         - local: fine_tuning_detr_custom_dataset
           title: Fine-Tuning Object Detection on a Custom Dataset, Deployment in Spaces, and Gradio API Integration
+        - local: semantic_segmentation_fine_tuning_inference
+          title: Fine-Tuning a Semantic Segmentation Model on a Custom Dataset and Usage via the Inference API
 
     - title: Diffusion Recipes
       isExpanded: false
