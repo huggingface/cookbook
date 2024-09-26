@@ -84,6 +84,8 @@
           title: Analyzing Artistic Styles with Multimodal Embeddings
         - local: faiss_with_hf_datasets_and_clip
           title: Embedding multimodal data for similarity search
+        - local: multimodal_rag_using_document_retrieval_and_vlms
+          title: Multimodal Retrieval-Augmented Generation (RAG) with Document Retrieval (ColPali) and Vision Language Models (VLMs)
 
     - title: Search Recipes
       isExpanded: false
