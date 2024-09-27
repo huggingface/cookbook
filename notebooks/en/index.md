@@ -22,6 +22,7 @@ Check out the recently added notebooks:
 - [Data analyst agent: get your data’s insights in the blink of an eye ✨](agent_data_analyst)
 - [Enhancing RAG Reasoning with Knowledge Graphs](rag_with_knowledge_graphs_neo4j)
 - [Fine-Tuning Object Detection on a Custom Dataset 🖼, Deployment in Spaces, and Gradio API Integration](fine_tuning_detr_custom_dataset)
+- [Fine-Tuning a Semantic Segmentation Model on a Custom Dataset and Usage via the Inference API](semantic_segmentation_fine_tuning_inference)
 - [Multimodal Retrieval-Augmented Generation (RAG) with Document Retrieval (ColPali) and Vision Language Models (VLMs)](multimodal_rag_using_document_retrieval_and_vlms)
 
 
