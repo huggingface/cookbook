@@ -9,3 +9,5 @@
       sections:
         - local: advanced_ko_rag
           title: 한국어로 Advanced RAG 구현하기 - Hugging Face와 LangChain을 활용한 Cookbook
+        - local: rag_eeve_langchain
+          title: GitHub 이슈를 위한 EEVE와 LangChain을 사용한 간단한 RAG
