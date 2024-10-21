@@ -9,5 +9,7 @@
       sections:
         - local: advanced_ko_rag
           title: 한국어로 Advanced RAG 구현하기 - Hugging Face와 LangChain을 활용한 Cookbook
+        - local: structured_generation
+          title: 구조화된 생성으로 근거 강조 표시가 있는 RAG 시스템 구축하기
         - local: ko_rag_with_knowledge_graphs_neo4j
           title: 지식 그래프를 활용한 RAG 추론 향상
