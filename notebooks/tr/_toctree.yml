@@ -5,6 +5,12 @@
     - local: index
       title: Genel Bakış
 
+    - title: LLM Tarifleri
+      isExpanded: false
+      sections:
+        - local: fine_tuning_code_llm_on_single_gpu
+          title: Kod Dil Modelini Tek GPU'da Fine-Tune Etmek
+
     - title: Bilgisayarlı Görü Uygulamaları
       isExpanded: false
       sections:
