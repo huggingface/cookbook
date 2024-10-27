@@ -14,7 +14,7 @@
         - local: ko_rag_with_knowledge_graphs_neo4j
           title: 지식 그래프를 활용한 RAG 추론 향상
           
-    - title: 데이터분석 에이전트
+    - title: 에이전트 레시피
       isExpanded: false
       sections:
         - local: agent_data_analyst
