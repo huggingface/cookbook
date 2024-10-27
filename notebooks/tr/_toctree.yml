@@ -1,9 +1,14 @@
-- title: Açık-Kaynak YZ Tarif Kitabı
-  sections:
-  - local: index
-    title: Açık-Kaynak YZ Tarif Kitabı
 
-- title: LLM Tarifleri
+- title: Açık Kaynak AI Cookbook
+  isExpanded: True
   sections:
-  - local: fine_tuning_code_llm_on_single_gpu
-    title: Kod Dil Modelini Tek GPU'da Fine-Tune Etmek
+    - local: index
+      title: Genel Bakış
+
+    - title: Bilgisayarlı Görü Uygulamaları
+      isExpanded: false
+      sections:
+        - local: semantic_segmentation_fine_tuning_inference
+          title: Özel Bir Veri Seti Üzerinde Anlamsal Segmentasyon Modeli Fine-Tuning ve Inference API Üzerinden Kullanımı
+
+

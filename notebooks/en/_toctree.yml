@@ -1,50 +1,128 @@
+
 - title: Open-Source AI Cookbook
+  isExpanded: True
   sections:
-  - local: index
-    title: Open-Source AI Cookbook
-    
-- title: LLM Recipes
-  sections:
-  - local: automatic_embedding_tei_inference_endpoints
-    title: Automatic Embeddings with TEI through Inference Endpoints
-  - local: tgi_messages_api_demo
-    title: Migrating from OpenAI to Open LLMs Using TGI's Messages API
-  - local: advanced_rag
-    title: Advanced RAG on HuggingFace documentation using LangChain
-  - local: labelling_feedback_setfit
-    title: Suggestions for Data Annotation with SetFit in Zero-shot Text Classification
-  - local: fine_tuning_code_llm_on_single_gpu
-    title: Fine-tuning a Code LLM on Custom Code on a single GPU
-  - local: prompt_tuning_peft
-    title: Prompt tuning with PEFT
-  - local: rag_evaluation
-    title: RAG Evaluation
-  - local: llm_judge
-    title: Using LLM-as-a-judge for an automated and versatile evaluation
+    - local: index
+      title: Overview
 
-- title: Diffusion Recipes
-  sections:
-  - local: stable_diffusion_interpolation
-    title: Stable Diffusion Interpolation
+    - title: LLM Recipes
+      isExpanded: false
+      sections:
+        - local: automatic_embedding_tei_inference_endpoints
+          title: Automatic Embeddings with TEI through Inference Endpoints
+        - local: tgi_messages_api_demo
+          title: Migrating from OpenAI to Open LLMs Using TGI's Messages API
+        - local: advanced_rag
+          title: Advanced RAG on HuggingFace documentation using LangChain
+        - local: labelling_feedback_setfit
+          title: Suggestions for Data Annotation with SetFit in Zero-shot Text Classification
+        - local: fine_tuning_code_llm_on_single_gpu
+          title: Fine-tuning a Code LLM on Custom Code on a single GPU
+        - local: prompt_tuning_peft
+          title: Prompt tuning with PEFT
+        - local: rag_with_hf_and_milvus
+          title: RAG with Hugging Face and Milvus
+        - local: rag_evaluation
+          title: RAG Evaluation
+        - local: llm_judge
+          title: Using LLM-as-a-judge for an automated and versatile evaluation
+        - local: issues_in_text_dataset
+          title: Detecting Issues in a Text Dataset with Cleanlab
+        - local: annotate_text_data_transformers_via_active_learning
+          title: Annotate text data using Active Learning with Cleanlab
+        - local: rag_with_hugging_face_gemma_elasticsearch
+          title: Building a RAG System with Gemma, Elasticsearch and Open Source Models
+        - local: rag_with_hugging_face_gemma_mongodb
+          title: Building A RAG System with Gemma, MongoDB and Open Source Models
+        - local: rag_zephyr_langchain
+          title: Simple RAG using Hugging Face Zephyr and LangChain
+        - local: rag_llamaindex_librarian
+          title: RAG "Librarian" Using LlamaIndex
+        - local: semantic_cache_chroma_vector_database
+          title: Implementing semantic cache to improve a RAG system.
+        - local: structured_generation
+          title: RAG with source highlighting using Structured generation
+        - local: rag_with_unstructured_data
+          title: Building RAG with Custom Unstructured Data
+        - local: fine_tuning_llm_to_generate_persian_product_catalogs_in_json_format
+          title: Fine-tuning LLM to Generate Persian Product Catalogs in JSON Format
+        - local: llm_gateway_pii_detection
+          title: LLM Gateway for PII Detection
+        - local: information_extraction_haystack_nuextract
+          title: Information Extraction with Haystack and NuExtract
+        - local: code_search
+          title: Code Search With Vector Embeddings Using Qdrant
+        - local: rag_with_sql_reranker
+          title: RAG backed by SQL and Jina Reranker
+        - local: generate_preference_dataset_distilabel
+          title: Generate a Preference Dataset with distilabel
+        - local: clean_dataset_judges_distilabel
+          title: Clean an Existing Preference Dataset with LLMs as Judges
+        - local: benchmarking_tgi
+          title: Benchmarking TGI
+        - local: rag_with_knowledge_graphs_neo4j
+          title: Enhancing RAG Reasoning with Knowledge Graphs
+          
+    - title: Computer Vision Recipes
+      isExpanded: false
+      sections:
+        - local: fine_tuning_vit_custom_dataset
+          title: Fine-tuning a Vision Transformer Model With a Custom Biomedical Dataset
+        - local: fine_tuning_detr_custom_dataset
+          title: Fine-Tuning Object Detection on a Custom Dataset, Deployment in Spaces, and Gradio API Integration
+        - local: semantic_segmentation_fine_tuning_inference
+          title: Fine-Tuning a Semantic Segmentation Model on a Custom Dataset and Usage via the Inference API
 
-- title: Multimodal Recipes
+    - title: Diffusion Recipes
+      isExpanded: false
+      sections:
+        - local: stable_diffusion_interpolation
+          title: Stable Diffusion Interpolation
+
+    - title: Multimodal Recipes
+      isExpanded: false
+      sections:
+        - local: analyzing_art_with_hf_and_fiftyone
+          title: Analyzing Artistic Styles with Multimodal Embeddings
+        - local: faiss_with_hf_datasets_and_clip
+          title: Embedding multimodal data for similarity search
+        - local: multimodal_rag_using_document_retrieval_and_vlms
+          title: Multimodal Retrieval-Augmented Generation (RAG) with Document Retrieval (ColPali) and Vision Language Models (VLMs)
+
+    - title: Search Recipes
+      isExpanded: false
+      sections:
+      - local: semantic_reranking_elasticsearch
+        title: Semantic Reranking with Elasticsearch
+
+    - title: Agents Recipes
+      isExpanded: false
+      sections:
+        - local: agents
+          title: Build an agent with tool-calling superpowers using Transformers Agents
+        - local: agent_rag
+          title: Agentic RAG - turbocharge your RAG with query reformulation and self-query
+        - local: agent_change_llm
+          title: Create a Transformers Agent from any LLM inference provider
+        - local: agent_text_to_sql
+          title: Agent for Text-to-SQL with automatic error correction
+        - local: agent_data_analyst
+          title: Data analyst agent - get your data's insights in the blink of an eye
+        - local: multiagent_web_assistant
+          title: Have several agents collaborate in a multi-agent hierarchy
+
+- title: Enterprise Hub Cookbook
+  isExpanded: True
   sections:
-  - local: faiss_with_hf_datasets_and_clip
-    title: Embedding multimodal data for similarity search
-    
-- title: LLM and RAG recipes with other Libraries
-  sections:
-  - local: issues_in_text_dataset
-    title: Detecting Issues in a Text Dataset with Cleanlab
-  - local: annotate_text_data_transformers_via_active_learning
-    title: Annotate text data using Active Learning with Cleanlab
-  - local: rag_with_hugging_face_gemma_mongodb
-    title: Building A RAG System with Gemma, MongoDB and Open Source Models
-  - local: rag_zephyr_langchain
-    title: Simple RAG using Hugging Face Zephyr and LangChain
-  - local: rag_llamaindex_librarian
-    title: RAG "Librarian" Using LlamaIndex
-  - local: pipeline_notus_instructions_preferences_legal
-    title: Create a legal preference dataset
-  - local: semantic_cache_chroma_vector_database
-    title: Implementing semantic cache to improve a RAG system.
+  - local: enterprise_cookbook_overview
+    title: Overview
+  - local: enterprise_cookbook_dev_spaces
+    title: Interactive Development In HF Spaces
+  - local: enterprise_hub_serverless_inference_api
+    title: Inference API (Serverless)
+  - local: enterprise_dedicated_endpoints
+    title: Inference Endpoints (Dedicated)
+  - local: enterprise_cookbook_argilla
+    title: Data annotation with Argilla Spaces
+  - local: enterprise_cookbook_gradio
+    title: Creating demos with Spaces and Gradio
