@@ -11,9 +11,8 @@
         - local: semantic_segmentation_fine_tuning_inference
           title: Özel Bir Veri Seti Üzerinde Anlamsal Segmentasyon Modeli Fine-Tuning ve Inference API Üzerinden Kullanımı
 
-
-    - title: Agents Uygulamaları
+    - title: Ajan Uygulamaları
       isExpanded: false
       sections:
         - local: agent_data_analyst
-          title: Veri Analizi Botu - Göz açıp kapayıncaya kadar verilerinizi analiz edin ✨
+          title: Veri Analizi Ajanı - Göz açıp kapayıncaya kadar verilerinizi analiz edin ✨
