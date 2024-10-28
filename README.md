@@ -16,7 +16,7 @@ Before contributing, check currently [open issues](https://github.com/huggingfac
 [pull requests](https://github.com/huggingface/cookbook/pulls) to avoid working on something that someone else is
 already working on.
 
-After you contribute, feel free to ask for a request to join to [this organization](https://huggingface.co/organizations/huggingcooks) to claim the badge. 🏅
+After you contribute, feel free to ask for a request to join to [this organization](https://huggingface.co/huggingcooks) to claim the badge. 🏅
 
 ### What makes a good Cookbook notebook?
 
