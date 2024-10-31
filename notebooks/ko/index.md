@@ -9,6 +9,7 @@
 - [한국어 Advanced RAG 구현: Hugging Face와 LangChain 활용한 Cookbook](advanced_ko_rag)
 - [구조화된 생성으로 근거 강조 표시가 있는 RAG 시스템 구축하기](structured_generation)
 - [지식 그래프를 활용한 RAG 추론 향상](ko_rag_with_knowledge_graphs_neo4j)
+- [GitHub 이슈를 위한 EEVE와 LangChain을 사용한 간단한 RAG](rag_zephyr_langchain)
 
 - [유사성 검색을 위한 멀티모달 데이터 임베딩](faiss_with_hf_datasets_and_clip)
 

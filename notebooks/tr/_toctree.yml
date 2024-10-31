@@ -1,0 +1,14 @@
+
+- title: Açık Kaynak AI Cookbook
+  isExpanded: True
+  sections:
+    - local: index
+      title: Genel Bakış
+
+    - title: Bilgisayarlı Görü Uygulamaları
+      isExpanded: false
+      sections:
+        - local: semantic_segmentation_fine_tuning_inference
+          title: Özel Bir Veri Seti Üzerinde Anlamsal Segmentasyon Modeli Fine-Tuning ve Inference API Üzerinden Kullanımı
+
+
