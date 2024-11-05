@@ -88,6 +88,8 @@
           title: Embedding multimodal data for similarity search
         - local: multimodal_rag_using_document_retrieval_and_vlms
           title: Multimodal Retrieval-Augmented Generation (RAG) with Document Retrieval (ColPali) and Vision Language Models (VLMs)
+        - local: fine_tuning_vlm_trl
+          title: Fine-Tuning a Vision Language Model (Qwen2-VL-7B) with the Hugging Face Ecosystem (TRL)
 
     - title: Search Recipes
       isExpanded: false
