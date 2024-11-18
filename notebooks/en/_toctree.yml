@@ -70,6 +70,8 @@
           title: Fine-tuning a Vision Transformer Model With a Custom Biomedical Dataset
         - local: fine_tuning_detr_custom_dataset
           title: Fine-Tuning Object Detection on a Custom Dataset, Deployment in Spaces, and Gradio API Integration
+        - local: semantic_segmentation_fine_tuning_inference
+          title: Fine-Tuning a Semantic Segmentation Model on a Custom Dataset and Usage via the Inference API
 
     - title: Diffusion Recipes
       isExpanded: false
@@ -84,6 +86,10 @@
           title: Analyzing Artistic Styles with Multimodal Embeddings
         - local: faiss_with_hf_datasets_and_clip
           title: Embedding multimodal data for similarity search
+        - local: multimodal_rag_using_document_retrieval_and_vlms
+          title: Multimodal Retrieval-Augmented Generation (RAG) with Document Retrieval (ColPali) and Vision Language Models (VLMs)
+        - local: fine_tuning_vlm_trl
+          title: Fine-Tuning a Vision Language Model (Qwen2-VL-7B) with the Hugging Face Ecosystem (TRL)
 
     - title: Search Recipes
       isExpanded: false
