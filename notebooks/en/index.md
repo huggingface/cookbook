@@ -25,6 +25,7 @@ Check out the recently added notebooks:
 - [Fine-Tuning Object Detection on a Custom Dataset 🖼, Deployment in Spaces, and Gradio API Integration](fine_tuning_detr_custom_dataset)
 - [Fine-Tuning a Semantic Segmentation Model on a Custom Dataset and Usage via the Inference API](semantic_segmentation_fine_tuning_inference)
 - [Multimodal Retrieval-Augmented Generation (RAG) with Document Retrieval (ColPali) and Vision Language Models (VLMs)](multimodal_rag_using_document_retrieval_and_vlms)
+- [Fine-Tuning a Vision Language Model (Qwen2-VL-7B) with the Hugging Face Ecosystem (TRL)](fine_tuning_vlm_trl)
 
 
 
