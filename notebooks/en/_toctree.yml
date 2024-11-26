@@ -62,6 +62,8 @@
           title: Benchmarking TGI
         - local: rag_with_knowledge_graphs_neo4j
           title: Enhancing RAG Reasoning with Knowledge Graphs
+        - local: phoenix_observability_on_hf_spaces
+          title: Phoenix Observability Dashboard on HF Spaces
           
     - title: Computer Vision Recipes
       isExpanded: false
@@ -88,6 +90,8 @@
           title: Embedding multimodal data for similarity search
         - local: multimodal_rag_using_document_retrieval_and_vlms
           title: Multimodal Retrieval-Augmented Generation (RAG) with Document Retrieval (ColPali) and Vision Language Models (VLMs)
+        - local: fine_tuning_vlm_trl
+          title: Fine-Tuning a Vision Language Model (Qwen2-VL-7B) with the Hugging Face Ecosystem (TRL)
 
     - title: Search Recipes
       isExpanded: false
