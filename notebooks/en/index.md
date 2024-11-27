@@ -7,6 +7,7 @@ applications and solving various machine learning tasks using open-source tools 
 
 Check out the recently added notebooks:
 
+- [Phoenix Observability Dashboard on HF Spaces](phoenix_observability_on_hf_spaces)
 - [Have several agents collaborate in a multi-agent hierarchy 🤖🤝🤖](multiagent_web_assistant)
 - [Semantic reranking with Elasticsearch](semantic_reranking_elasticsearch)
 - [Benchmarking TGI](benchmarking_tgi)
