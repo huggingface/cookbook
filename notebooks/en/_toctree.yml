@@ -62,6 +62,8 @@
           title: Benchmarking TGI
         - local: rag_with_knowledge_graphs_neo4j
           title: Enhancing RAG Reasoning with Knowledge Graphs
+        - local: phoenix_observability_on_hf_spaces
+          title: Phoenix Observability Dashboard on HF Spaces
           
     - title: Computer Vision Recipes
       isExpanded: false
