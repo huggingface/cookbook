@@ -97,13 +97,13 @@
         - local: fine_tuning_vlm_trl
           title: Fine-Tuning a Vision Language Model (Qwen2-VL-7B) with the Hugging Face Ecosystem (TRL)
 
-    - title: Search Recipes
+    - title: 检索系列
       isExpanded: false
       sections:
       - local: semantic_reranking_elasticsearch
-        title: Semantic Reranking with Elasticsearch
+        title: 使用 Elasticsearch 和 Hugging Face 进行语义重排序
 
-     - title: 智能体
+     - title: 智能体系列
       isExpanded: false
       sections:
         - local: agents
