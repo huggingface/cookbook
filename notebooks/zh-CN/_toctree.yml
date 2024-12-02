@@ -76,9 +76,6 @@
         - local: semantic_segmentation_fine_tuning_inference
           title: Fine-Tuning a Semantic Segmentation Model on a Custom Dataset and Usage via the Inference API
 
-
-
-
     - title: Diffusion 系列
       isExpanded: false
       sections:
@@ -113,7 +110,7 @@
         - local: agent_change_llm
           title: 从任意的 LLM 推理提供商中创建一个 Transformers 智能体
         - local: agent_text_to_sql
-          title: Agent for Text-to-SQL with automatic error correction
+          title: 用于文本到 SQL 的智能体，带有自动错误修正功能 
         - local: agent_data_analyst
           title: 数据分析智能体-瞬间获取数据洞察
         - local: multiagent_web_assistant
