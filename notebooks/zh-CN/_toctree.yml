@@ -58,7 +58,7 @@
         - local: generate_preference_dataset_distilabel
           title: Generate a Preference Dataset with distilabel
         - local: clean_dataset_judges_distilabel
-          title: Clean an Existing Preference Dataset with LLMs as Judges
+          title: 使用大型语言模型作为评审者清理现有的偏好数据集
         - local: benchmarking_tgi
           title: 基准测试 TGI
         - local: rag_with_knowledge_graphs_neo4j
