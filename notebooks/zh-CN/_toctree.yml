@@ -28,7 +28,7 @@
         - local: issues_in_text_dataset
           title: 使用 Cleanlab 检测文本数据集中的问题
         - local: annotate_text_data_transformers_via_active_learning
-          title: Annotate text data using Active Learning with Cleanlab
+          title: 使用 Cleanlab 进行主动学习标注文本数据
         - local: rag_with_hugging_face_gemma_elasticsearch
           title: 构建一个基于 Gemma、Elasticsearch 和 Hugging Face 模型的 RAG 系统
         - local: rag_with_hugging_face_gemma_mongodb
