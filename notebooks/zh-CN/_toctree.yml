@@ -52,7 +52,7 @@
         - local: information_extraction_haystack_nuextract
           title: Information Extraction with Haystack and NuExtract
         - local: code_search
-          title: Code Search With Vector Embeddings Using Qdrant
+          title: 使用向量嵌入和 Qdrant 进行代码搜索
         - local: rag_with_sql_reranker
           title: RAG backed by SQL and Jina Reranker
         - local: generate_preference_dataset_distilabel
