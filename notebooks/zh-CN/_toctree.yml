@@ -60,7 +60,7 @@
         - local: clean_dataset_judges_distilabel
           title: Clean an Existing Preference Dataset with LLMs as Judges
         - local: benchmarking_tgi
-          title: Benchmarking TGI
+          title: 基准测试 TGI
         - local: rag_with_knowledge_graphs_neo4j
           title: Enhancing RAG Reasoning with Knowledge Graphs
         - local: phoenix_observability_on_hf_spaces
