@@ -133,6 +133,6 @@
   - local: enterprise_dedicated_endpoints
     title: Inference Endpoints (Dedicated)
   - local: enterprise_cookbook_argilla
-    title: Data annotation with Argilla Spaces
+    title: 数据标注与 Argilla Spaces 
   - local: enterprise_cookbook_gradio
     title: Creating demos with Spaces and Gradio
