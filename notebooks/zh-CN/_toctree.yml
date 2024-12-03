@@ -74,7 +74,7 @@
         - local: fine_tuning_detr_custom_dataset
           title: Fine-Tuning Object Detection on a Custom Dataset, Deployment in Spaces, and Gradio API Integration
         - local: semantic_segmentation_fine_tuning_inference
-          title: Fine-Tuning a Semantic Segmentation Model on a Custom Dataset and Usage via the Inference API
+          title: 在自定义数据集上微调语义分割模型并通过推理 API 使用
 
     - title: Diffusion 系列
       isExpanded: false
