@@ -1,4 +1,3 @@
-
 - title: Açık Kaynak AI Cookbook
   isExpanded: True
   sections:
@@ -11,4 +10,8 @@
         - local: semantic_segmentation_fine_tuning_inference
           title: Özel Bir Veri Seti Üzerinde Anlamsal Segmentasyon Modeli Fine-Tuning ve Inference API Üzerinden Kullanımı
 
-
+    - title: Ajanlar için Tarifler
+      isExpanded: false
+      sections:
+        - local: agents
+          title: Transformers Agents kullanarak tool-calling süper güçleriyle donatılmış bir ajan oluşturun 🦸
