@@ -92,7 +92,7 @@
         - local: multimodal_rag_using_document_retrieval_and_vlms
           title: Multimodal Retrieval-Augmented Generation (RAG) with Document Retrieval (ColPali) and Vision Language Models (VLMs)
         - local: fine_tuning_vlm_trl
-          title: Fine-Tuning a Vision Language Model (Qwen2-VL-7B) with the Hugging Face Ecosystem (TRL)
+          title: 使用 Hugging Face 生态系统（TRL）对视觉语言模型 (Qwen2-VL-7B) 进行微调
 
     - title: 检索系列
       isExpanded: false
