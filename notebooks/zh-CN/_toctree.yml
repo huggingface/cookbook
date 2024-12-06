@@ -129,7 +129,7 @@
   - local: enterprise_cookbook_dev_spaces
     title: 在 HF 空间中的互动开发
   - local: enterprise_hub_serverless_inference_api
-    title: Inference API (Serverless)
+    title: 无服务器推理 API 
   - local: enterprise_dedicated_endpoints
     title: 推理端点（专用） 
   - local: enterprise_cookbook_argilla
