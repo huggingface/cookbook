@@ -72,7 +72,7 @@
         - local: fine_tuning_vit_custom_dataset
           title: 用自定义生物医学数据集微调视觉 Transformer 模型
         - local: fine_tuning_detr_custom_dataset
-          title: Fine-Tuning Object Detection on a Custom Dataset, Deployment in Spaces, and Gradio API Integration
+          title: 用自定义数据集微调目标检测模型🖼，部署至 Spaces，并进行 Gradio API 集成
         - local: semantic_segmentation_fine_tuning_inference
           title: 在自定义数据集上微调语义分割模型并通过推理 API 使用
 
