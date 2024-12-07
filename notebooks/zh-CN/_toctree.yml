@@ -54,7 +54,7 @@
         - local: code_search
           title: 使用向量嵌入和 Qdrant 进行代码搜索
         - local: rag_with_sql_reranker
-          title: RAG backed by SQL and Jina Reranker
+          title: 于 SQL 和 Jina Reranker v2 的 RAG
         - local: generate_preference_dataset_distilabel
           title: 使用 distilabel 生成偏好数据集
         - local: clean_dataset_judges_distilabel
