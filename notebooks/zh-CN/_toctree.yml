@@ -64,7 +64,7 @@
         - local: rag_with_knowledge_graphs_neo4j
           title: Enhancing RAG Reasoning with Knowledge Graphs
         - local: phoenix_observability_on_hf_spaces
-          title: Phoenix Observability Dashboard on HF Spaces
+          title: 在 Hugging Face Spaces 上设置 Phoenix 观察性仪表板以进行 LLM 应用程序追踪
     
     - title: 计算机视觉
       isExpanded: false
