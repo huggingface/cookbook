@@ -116,7 +116,7 @@
         - local: multiagent_web_assistant
           title: Have several agents collaborate in a multi-agent hierarchy
         - local: multiagent_rag_system
-          title: Multi-agent RAG System 🤖🤝🤖
+          title: 多智能体 RAG 系统 🤖🤝🤖
 
 
              
