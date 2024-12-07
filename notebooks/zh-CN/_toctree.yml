@@ -56,7 +56,7 @@
         - local: rag_with_sql_reranker
           title: RAG backed by SQL and Jina Reranker
         - local: generate_preference_dataset_distilabel
-          title: Generate a Preference Dataset with distilabel
+          title: 使用 distilabel 生成偏好数据集
         - local: clean_dataset_judges_distilabel
           title: 使用大型语言模型作为评审者清理现有的偏好数据集
         - local: benchmarking_tgi
