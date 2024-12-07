@@ -90,7 +90,7 @@
         - local: faiss_with_hf_datasets_and_clip
           title: 用 🤗 transformers, 🤗 datasets 和 FAISS 嵌入多模态数据进行相似度搜索
         - local: multimodal_rag_using_document_retrieval_and_vlms
-          title: Multimodal Retrieval-Augmented Generation (RAG) with Document Retrieval (ColPali) and Vision Language Models (VLMs)
+          title: 基于文档检索（ColPali）和视觉语言模型（VLMs）的多模态检索增强生成（RAG）
         - local: fine_tuning_vlm_trl
           title: 使用 Hugging Face 生态系统（TRL）对视觉语言模型 (Qwen2-VL-7B) 进行微调
 
