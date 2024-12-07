@@ -48,7 +48,7 @@
         - local: fine_tuning_llm_to_generate_persian_product_catalogs_in_json_format
           title: 微调大型语言模型以生成波斯语产品目录的 JSON 格式
         - local: llm_gateway_pii_detection
-          title: LLM Gateway for PII Detection
+          title: 个人身份信息（PII）检测的 LLM 网关
         - local: information_extraction_haystack_nuextract
           title: 使用 Haystack 和 NuExtract 进行信息提取
         - local: code_search
