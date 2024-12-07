@@ -62,7 +62,7 @@
         - local: benchmarking_tgi
           title: 基准测试 TGI
         - local: rag_with_knowledge_graphs_neo4j
-          title: Enhancing RAG Reasoning with Knowledge Graphs
+          title: 利用知识图谱增强 RAG 推理能力
         - local: phoenix_observability_on_hf_spaces
           title: 在 Hugging Face Spaces 上设置 Phoenix 观察性仪表板以进行 LLM 应用程序追踪
     
