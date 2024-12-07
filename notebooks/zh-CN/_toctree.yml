@@ -114,7 +114,7 @@
         - local: agent_data_analyst
           title: 数据分析智能体-瞬间获取数据洞察
         - local: multiagent_web_assistant
-          title: Have several agents collaborate in a multi-agent hierarchy
+          title: 让多个智能体在多智能体层级中协作
         - local: multiagent_rag_system
           title: 多智能体 RAG 系统 🤖🤝🤖
 
