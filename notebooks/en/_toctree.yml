@@ -95,7 +95,7 @@
         - local: multimodal_rag_using_document_retrieval_and_reranker_and_vlms
           title: Multimodal RAG with ColQwen2, Reranker, and Quantized VLMs on Consumer GPUs
         - local: fine_tuning_smol_vlm_sft_trl
-          title: Fine-Tuning a smol VLM (SmolVLM) with the Hugging Face Ecosystem (TRL) using SFT on a Consumer GPU
+          title: Finetuning SmolVLM with TRL on a consumer GPU
 
     - title: Search Recipes
       isExpanded: false
