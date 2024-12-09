@@ -95,7 +95,7 @@
         - local: multimodal_rag_using_document_retrieval_and_reranker_and_vlms
           title: Multimodal RAG with ColQwen2, Reranker, and Quantized VLMs on Consumer GPUs
         - local: multimodal_rag_using_document_retrieval_and_smol_vlm
-          title: "Smol Multimodal RAG: Building with ColSmolVLM and SmolVLM on Colab's Free-Tier GPU"
+          title: Smol Multimodal RAG: Building with ColSmolVLM and SmolVLM on Colab's Free-Tier GPU
 
     - title: Search Recipes
       isExpanded: false
