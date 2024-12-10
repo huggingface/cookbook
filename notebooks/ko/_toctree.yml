@@ -3,7 +3,7 @@
   sections:
     - local: index
       title: 오픈소스 AI Cookbook
-      
+
     - title: LLM 레시피
       isExpanded: false
       sections:
