@@ -95,10 +95,10 @@
     - title: 检索系列
       isExpanded: false
       sections:
-      - local: semantic_reranking_elasticsearch
-        title: 使用 Elasticsearch 和 Hugging Face 进行语义重排序
+        - local: semantic_reranking_elasticsearch
+          title: 使用 Elasticsearch 和 Hugging Face 进行语义重排序
 
-     - title: 智能体系列
+    - title: 智能体系列
       isExpanded: false
       sections:
         - local: agents
@@ -119,15 +119,15 @@
 - title: 企业级使用指南 (Cookbook)
   isExpanded: True
   sections:
-  - local: enterprise_cookbook_overview
-    title: 概览
-  - local: enterprise_cookbook_dev_spaces
-    title: 在 HF 空间中的互动开发
-  - local: enterprise_hub_serverless_inference_api
-    title: 无服务器推理 API 
-  - local: enterprise_dedicated_endpoints
-    title: 推理端点(专用) 
-  - local: enterprise_cookbook_argilla
-    title: 数据标注与 Argilla Spaces 
-  - local: enterprise_cookbook_gradio
-    title: 使用 Spaces 和 Gradio 创建演示
+    - local: enterprise_cookbook_overview
+      title: 概览
+    - local: enterprise_cookbook_dev_spaces
+      title: 在 HF 空间中的互动开发
+    - local: enterprise_hub_serverless_inference_api
+      title: 无服务器推理 API 
+    - local: enterprise_dedicated_endpoints
+      title: 推理端点(专用) 
+    - local: enterprise_cookbook_argilla
+      title: 数据标注与 Argilla Spaces 
+    - local: enterprise_cookbook_gradio
+      title: 使用 Spaces 和 Gradio 创建演示
