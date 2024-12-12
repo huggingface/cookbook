@@ -90,7 +90,7 @@ HF JupyterLab Spaces 克服了这些限制。使用 HF JupyterLab Space，你可
 > [!提示]
 > `/data` 目录中的持久化文件目前不会自动备份，因此建议定期备份重要文件，以避免数据丢失。
 
-## 开始写代码！
+## 开始写代码
 
 就这样，你可以在浏览器中运行 JupyterLab Space，动态切换多个强大的 GPU，并从本地 IDE 连接到硬件。
 
