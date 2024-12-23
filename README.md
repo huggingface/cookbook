@@ -16,6 +16,8 @@ Before contributing, check currently [open issues](https://github.com/huggingfac
 [pull requests](https://github.com/huggingface/cookbook/pulls) to avoid working on something that someone else is
 already working on.
 
+After you contribute, feel free to ask for a request to join to [this organization](https://huggingface.co/huggingcooks) to claim the badge. 🏅
+
 ### What makes a good Cookbook notebook?
 
 We believe that the Cookbook will be the most beneficial for everyone in the community if the Jupyter notebooks have the 
@@ -29,7 +31,7 @@ following qualities:
 
 ### Creating a pull request
 
-When contributing a new example/guide, open a pull request and tag [@MKhalusova](https://github.com/MKhalusova) for a review.
+To contribute a new example/guide, open a pull request, and tag @merveenoyan and @stevhliu.
 
 Here are some tips:
 

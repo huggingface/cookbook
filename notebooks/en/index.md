@@ -1,27 +1,26 @@
 # Open-Source AI Cookbook
 
-The Open-Source AI Cookbook is a collection of notebooks illustrating practical aspects of building AI 
+The Open-Source AI Cookbook is a collection of notebooks illustrating practical aspects of building AI
 applications and solving various machine learning tasks using open-source tools and models.
 
 ## Latest notebooks
 
-Check out the recently added notebooks: 
+Check out the recently added notebooks:
 
-- [Stable Diffusion Interpolation](stable_diffusion_interpolation)
-- [Building A RAG System with Gemma, MongoDB and Open Source Models](rag_with_hugging_face_gemma_mongodb)
-- [Prompt Tuning with PEFT Library](prompt_tuning_peft)
-- [Migrating from OpenAI to Open LLMs Using TGI's Messages API](tgi_messages_api_demo)
-- [Automatic Embeddings with TEI through Inference Endpoints](automatic_embedding_tei_inference_endpoints)
-- [Simple RAG for GitHub issues using Hugging Face Zephyr and LangChain](rag_zephyr_langchain)
-- [Embedding multimodal data for similarity search using 🤗 transformers, 🤗 datasets and FAISS](faiss_with_hf_datasets_and_clip)
-- [Fine-tuning a Code LLM on Custom Code on a single GPU](fine_tuning_code_llm_on_single_gpu)
-- [RAG Evaluation Using Synthetic data and LLM-As-A-Judge](rag_evaluation)
-- [Advanced RAG on HuggingFace documentation using LangChain](advanced_rag)
+- [Multimodal Retrieval-Augmented Generation (RAG) with Document Retrieval (ColPali) and Vision Language Models (VLMs)](multimodal_rag_using_document_retrieval_and_vlms)
+- [Fine-Tuning a Vision Language Model (Qwen2-VL-7B) with the Hugging Face Ecosystem (TRL)](fine_tuning_vlm_trl)
+- [Multi-agent RAG System 🤖🤝🤖](multiagent_rag_system)
+- [Multimodal RAG with ColQwen2, Reranker, and Quantized VLMs on Consumer GPUs](multimodal_rag_using_document_retrieval_and_reranker_and_vlms)
+- [Fine-tuning SmolVLM with TRL on a consumer GPU](fine_tuning_smol_vlm_sft_trl)
+- [Smol Multimodal RAG: Building with ColSmolVLM and SmolVLM on Colab's Free-Tier GPU](multimodal_rag_using_document_retrieval_and_smol_vlm)
+- [Fine-tuning SmolVLM using direct preference optimization (DPO) with TRL on a consumer GPU](fine_tuning_vlm_dpo_smolvlm_instruct)
+
+
 
 You can also check out the notebooks in the cookbook's [GitHub repo](https://github.com/huggingface/cookbook).
 
 ## Contributing
 
-The Open-Source AI Cookbook is a community effort, and we welcome contributions from everyone! 
-Check out the cookbook's [Contribution guide](https://github.com/huggingface/cookbook/blob/main/README.md) to learn 
-how you can add your "recipe". 
+The Open-Source AI Cookbook is a community effort, and we welcome contributions from everyone!
+Check out the cookbook's [Contribution guide](https://github.com/huggingface/cookbook/blob/main/README.md) to learn
+how you can add your "recipe".

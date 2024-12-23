@@ -18,7 +18,5 @@ Fixes # (issue)
 Feel free to tag members/contributors who may be interested in your PR.
 
 <!-- 
-
-At the moment, please tag @MKhalusova
-
+At the moment, please tag @merveenoyan and @stevhliu.
 -->
