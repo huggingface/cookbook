@@ -8,7 +8,7 @@
     - title: MLOps Recipes
       isExpanded: false
       sections:
-        - local: mlflow_ray_serve.ipynb
+        - local: mlflow_ray_serve
           title: Signature-Aware Model Serving from MLflow with Ray Serve
 
     - title: LLM Recipes
