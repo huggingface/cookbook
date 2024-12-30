@@ -14,6 +14,7 @@ Check out the recently added notebooks:
 - [Fine-tuning SmolVLM with TRL on a consumer GPU](fine_tuning_smol_vlm_sft_trl)
 - [Smol Multimodal RAG: Building with ColSmolVLM and SmolVLM on Colab's Free-Tier GPU](multimodal_rag_using_document_retrieval_and_smol_vlm)
 - [Fine-tuning SmolVLM using direct preference optimization (DPO) with TRL on a consumer GPU](fine_tuning_vlm_dpo_smolvlm_instruct)
+- [Scaling Test-Time Compute for Longer Thinking in LLMs](search_and_learn)
 
 
 
