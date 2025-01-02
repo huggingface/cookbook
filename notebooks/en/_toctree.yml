@@ -5,6 +5,12 @@
     - local: index
       title: Overview
 
+    - title: MLOps Recipes
+      isExpanded: false
+      sections:
+        - local: mlflow_ray_serve
+          title: Signature-Aware Model Serving from MLflow with Ray Serve
+
     - title: LLM Recipes
       isExpanded: false
       sections:
@@ -94,6 +100,12 @@
           title: Fine-Tuning a Vision Language Model (Qwen2-VL-7B) with the Hugging Face Ecosystem (TRL)
         - local: multimodal_rag_using_document_retrieval_and_reranker_and_vlms
           title: Multimodal RAG with ColQwen2, Reranker, and Quantized VLMs on Consumer GPUs
+        - local: fine_tuning_smol_vlm_sft_trl
+          title: Fine-tuning SmolVLM with TRL on a consumer GPU
+        - local: multimodal_rag_using_document_retrieval_and_smol_vlm
+          title: Smol Multimodal RAG, Building with ColSmolVLM and SmolVLM on Colab's Free-Tier GPU
+        - local: fine_tuning_vlm_dpo_smolvlm_instruct
+          title: Fine-tuning SmolVLM using direct preference optimization (DPO) with TRL on a consumer GPU
 
     - title: Search Recipes
       isExpanded: false
