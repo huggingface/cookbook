@@ -12,7 +12,6 @@ Check out the recently added notebooks:
 - [Fine-tuning SmolVLM using direct preference optimization (DPO) with TRL on a consumer GPU](fine_tuning_vlm_dpo_smolvlm_instruct)
 - [Smol Multimodal RAG: Building with ColSmolVLM and SmolVLM on Colab's Free-Tier GPU](multimodal_rag_using_document_retrieval_and_smol_vlm)
 - [Fine-tuning SmolVLM with TRL on a consumer GPU](fine_tuning_smol_vlm_sft_trl)
-- [Multimodal RAG with ColQwen2, Reranker, and Quantized VLMs on Consumer GPUs](multimodal_rag_using_document_retrieval_and_reranker_and_vlms)
 
 
 You can also check out the notebooks in the cookbook's [GitHub repo](https://github.com/huggingface/cookbook).
