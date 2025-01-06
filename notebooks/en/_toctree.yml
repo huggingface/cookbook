@@ -120,8 +120,6 @@
           title: Build an agent with tool-calling superpowers using Transformers Agents
         - local: agent_rag
           title: Agentic RAG - turbocharge your RAG with query reformulation and self-query
-        - local: agent_change_llm
-          title: Create a Transformers Agent from any LLM inference provider
         - local: agent_text_to_sql
           title: Agent for Text-to-SQL with automatic error correction
         - local: agent_data_analyst
