@@ -117,7 +117,7 @@
       isExpanded: false
       sections:
         - local: agents
-          title: Build an agent with tool-calling superpowers using Transformers Agents
+          title: Build an agent with tool-calling superpowers using smolagents
         - local: agent_rag
           title: Agentic RAG - turbocharge your RAG with query reformulation and self-query
         - local: agent_text_to_sql
