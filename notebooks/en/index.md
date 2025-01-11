@@ -7,6 +7,7 @@ applications and solving various machine learning tasks using open-source tools 
 
 Check out the recently added notebooks:
 
+- [Medical Question Answering with HuatuoGPT-o1](medical_question_answering)
 - [Scaling Test-Time Compute for Longer Thinking in LLMs](search_and_learn)
 - [Signature-Aware Model Serving from MLflow with Ray Serve](mlflow_ray_serve)
 - [Fine-tuning SmolVLM using direct preference optimization (DPO) with TRL on a consumer GPU](fine_tuning_vlm_dpo_smolvlm_instruct)
