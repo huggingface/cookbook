@@ -5,6 +5,12 @@
     - local: index
       title: Overview
 
+    - title: MLOps Recipes
+      isExpanded: false
+      sections:
+        - local: mlflow_ray_serve
+          title: Signature-Aware Model Serving from MLflow with Ray Serve
+
     - title: LLM Recipes
       isExpanded: false
       sections:
@@ -64,6 +70,8 @@
           title: Enhancing RAG Reasoning with Knowledge Graphs
         - local: phoenix_observability_on_hf_spaces
           title: Phoenix Observability Dashboard on HF Spaces
+        - local: search_and_learn
+          title: Scaling Test-Time Compute for Longer Thinking in LLMs
           
     - title: Computer Vision Recipes
       isExpanded: false
@@ -101,7 +109,6 @@
         - local: fine_tuning_vlm_dpo_smolvlm_instruct
           title: Fine-tuning SmolVLM using direct preference optimization (DPO) with TRL on a consumer GPU
 
-
     - title: Search Recipes
       isExpanded: false
       sections:
@@ -112,11 +119,9 @@
       isExpanded: false
       sections:
         - local: agents
-          title: Build an agent with tool-calling superpowers using Transformers Agents
+          title: Build an agent with tool-calling superpowers using smolagents
         - local: agent_rag
           title: Agentic RAG - turbocharge your RAG with query reformulation and self-query
-        - local: agent_change_llm
-          title: Create a Transformers Agent from any LLM inference provider
         - local: agent_text_to_sql
           title: Agent for Text-to-SQL with automatic error correction
         - local: agent_data_analyst
@@ -125,6 +130,8 @@
           title: Have several agents collaborate in a multi-agent hierarchy
         - local: multiagent_rag_system
           title: Multi-agent RAG System 🤖🤝🤖
+        - local: mongodb_smolagents_multi_micro_agents
+          title: MongoDB + SmolAgents Multi-Micro Agents to facilitate a data driven order-delivery AI agent
 
 - title: Enterprise Hub Cookbook
   isExpanded: True
