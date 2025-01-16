@@ -70,11 +70,9 @@
       isExpanded: false
       sections:
         - local: agents
-          title: 使用 Transformers Agents 构建具有工具调用超能力的智能体
+          title: 使用 smolagents 构建具有工具调用超能力的智能体
         - local: agent_rag
-          title: 智能体 RAG 通过查询重构和自查询来增强你的 RAG 
-        - local: agent_change_llm
-          title: 从任意的 LLM 推理提供商中创建一个 Transformers 智能体
+          title: 智能体 RAG 通过查询重构和自查询来增强你的 RAG
 
 - title: 企业级使用指南 (Cookbook)
   isExpanded: True
