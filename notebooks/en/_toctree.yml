@@ -72,8 +72,8 @@
           title: Phoenix Observability Dashboard on HF Spaces
         - local: search_and_learn
           title: Scaling Test-Time Compute for Longer Thinking in LLMs
-        - local: medical_question_answering
-          title: Medical Question Answering with HuatuoGPT-o1
+        - local: medical_rag_and_reasoning
+          title: HuatuoGPT-o1 Medical RAG and Reasoning
           
     - title: Computer Vision Recipes
       isExpanded: false
