@@ -8,6 +8,7 @@ applications and solving various machine learning tasks using open-source tools 
 Check out the recently added notebooks:
 
 - [HuatuoGPT-o1 Medical RAG and Reasoning](medical_rag_and_reasoning)
+- [Multi-Agent Order Management System with MongoDB](mongodb_smolagents_multi_micro_agents)
 - [Scaling Test-Time Compute for Longer Thinking in LLMs](search_and_learn)
 - [Signature-Aware Model Serving from MLflow with Ray Serve](mlflow_ray_serve)
 - [Fine-tuning SmolVLM using direct preference optimization (DPO) with TRL on a consumer GPU](fine_tuning_vlm_dpo_smolvlm_instruct)
