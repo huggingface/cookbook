@@ -72,7 +72,7 @@
           title: Phoenix Observability Dashboard on HF Spaces
         - local: search_and_learn
           title: Scaling Test-Time Compute for Longer Thinking in LLMs
-          
+
     - title: Computer Vision Recipes
       isExpanded: false
       sections:
@@ -108,6 +108,8 @@
           title: Smol Multimodal RAG, Building with ColSmolVLM and SmolVLM on Colab's Free-Tier GPU
         - local: fine_tuning_vlm_dpo_smolvlm_instruct
           title: Fine-tuning SmolVLM using direct preference optimization (DPO) with TRL on a consumer GPU
+        - local: structured_generation_vision_languag_models
+          title: Structured Generation from Documents Using Vision Language Models
 
     - title: Search Recipes
       isExpanded: false
