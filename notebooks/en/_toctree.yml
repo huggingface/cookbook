@@ -132,6 +132,8 @@
           title: Have several agents collaborate in a multi-agent hierarchy
         - local: multiagent_rag_system
           title: Multi-agent RAG System 🤖🤝🤖
+        - local: mongodb_smolagents_multi_micro_agents
+          title: MongoDB + SmolAgents Multi-Micro Agents to facilitate a data driven order-delivery AI agent
 
 - title: Enterprise Hub Cookbook
   isExpanded: True
