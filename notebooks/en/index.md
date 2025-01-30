@@ -8,10 +8,10 @@ applications and solving various machine learning tasks using open-source tools 
 Check out the recently added notebooks:
 
 - [Structured Generation from Images or Documents Using Vision Language Models](structured_generation_vision_language_models)
+- [Vector Search on Hugging Face with the Hub as Backend](vector_search_with_hub_as_backend)
 - [Multi-Agent Order Management System with MongoDB](mongodb_smolagents_multi_micro_agents)
 - [Scaling Test-Time Compute for Longer Thinking in LLMs](search_and_learn)
 - [Signature-Aware Model Serving from MLflow with Ray Serve](mlflow_ray_serve)
-- [Fine-tuning SmolVLM using direct preference optimization (DPO) with TRL on a consumer GPU](fine_tuning_vlm_dpo_smolvlm_instruct)
 
 You can also check out the notebooks in the cookbook's [GitHub repo](https://github.com/huggingface/cookbook).
 

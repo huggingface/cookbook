@@ -116,6 +116,8 @@
       sections:
       - local: semantic_reranking_elasticsearch
         title: Semantic Reranking with Elasticsearch
+      - local: vector_search_with_hub_as_backend
+        title: Vector Search on Hugging Face with the Hub as Backend
 
     - title: Agents Recipes
       isExpanded: false
