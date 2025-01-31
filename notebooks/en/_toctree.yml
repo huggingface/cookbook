@@ -32,6 +32,8 @@
           title: RAG Evaluation
         - local: llm_judge
           title: Using LLM-as-a-judge for an automated and versatile evaluation
+        - local: llm_judge_evaluating_ai_search_engines_with_judges_library
+          title: Evaluating AI Search Engines with `judges` - the open-source library for LLM-as-a-judge evaluators
         - local: issues_in_text_dataset
           title: Detecting Issues in a Text Dataset with Cleanlab
         - local: annotate_text_data_transformers_via_active_learning
