@@ -110,6 +110,8 @@
           title: Smol Multimodal RAG, Building with ColSmolVLM and SmolVLM on Colab's Free-Tier GPU
         - local: fine_tuning_vlm_dpo_smolvlm_instruct
           title: Fine-tuning SmolVLM using direct preference optimization (DPO) with TRL on a consumer GPU
+        - local: structured_generation_vision_language_models
+          title: Structured Generation from Images or Documents Using Vision Language Models
 
     - title: Search Recipes
       isExpanded: false
