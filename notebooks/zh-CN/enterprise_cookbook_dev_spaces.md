@@ -62,7 +62,7 @@ HF JupyterLab Spaces 克服了这些限制。使用 HF JupyterLab Space，你可
 
 在设置下方，你会看到其他选项，如扩展存储、重置 Space 等。如果在创建 Space 时没有设置密码，你也可以在这里创建一个名为 `JUPYTER_TOKEN` 的密钥，替换默认的“huggingface”密码。
 
-> [!提示]
+> [!TIP]
 > 如果你在多日或多周的使用过程中，存储缓存积累了文件，当你收到持久存储已满的警告时，可能会认为存储配额还未达到，重新设置 Space 为出厂设置可以清空缓存，有时会有帮助。
 
 ### 自定义你的 JupyterLab Space
@@ -80,9 +80,7 @@ HF JupyterLab Spaces 克服了这些限制。使用 HF JupyterLab Space，你可
 启用 `开发模式` 后，你会在 JupyterLab Space 窗口的左下角看到一个弹出窗口。要通过 SSH 连接到本地 VS Code，首先需要在本地安装 [VS Code Remote - SSH 插件](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)，并将你的 SSH 密钥添加到 [HF 个人资料](https://huggingface.co/settings/keys) 中。点击 `Connect with VS Code`，应该会打开你的本地 VS Code 窗口，并与 Space 建立远程连接。任何支持通过 SSH 进行远程开发的 IDE 都可以使用类似的过程。
 
 <div style="flex justify-center">
-    <img src="https://huggingface.co
-
-/datasets/huggingface/cookbook-images/resolve/main/enterprise-jupyterlab-devmode-popup.png" width="450">
+    <img src="https://huggingface.co/datasets/huggingface/cookbook-images/resolve/main/enterprise-jupyterlab-devmode-popup.png" width="450">
 </div>
 
 当你通过 SSH 连接到 Space 时，默认目录是空的 `/app` 目录。你需要切换到 `/data` 目录，这里保存了所有持久化的文件（代码、数据、模型等）。`/data` 目录是唯一一个保证在会话间持久存储文件的目录。如果你希望修改基础 Docker 容器，也可以访问 `/HOME/user/app` 目录。
