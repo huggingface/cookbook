@@ -7,7 +7,7 @@ applications and solving various machine learning tasks using open-source tools 
 
 Check out the recently added notebooks:
 
-- [Post-training an LLM using GRPO with TRL](fine_tuning_llm_grpo_trl)
+- [Post training an LLM for reasoning with GRPO in TRL](fine_tuning_llm_grpo_trl)
 - [Evaluating AI Search Engines with `judges` - the open-source library for LLM-as-a-judge evaluators](llm_judge_evaluating_ai_search_engines_with_judges_library)
 - [Structured Generation from Images or Documents Using Vision Language Models](structured_generation_vision_language_models)
 - [Vector Search on Hugging Face with the Hub as Backend](vector_search_with_hub_as_backend)

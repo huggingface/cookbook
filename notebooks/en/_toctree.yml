@@ -75,7 +75,7 @@
         - local: search_and_learn
           title: Scaling Test-Time Compute for Longer Thinking in LLMs
         - local: fine_tuning_llm_grpo_trl
-          title: Post-training an LLM using GRPO with TRL
+          title: Post training an LLM for reasoning with GRPO in TRL
           
     - title: Computer Vision Recipes
       isExpanded: false
