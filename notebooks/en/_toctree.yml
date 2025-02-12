@@ -114,6 +114,8 @@
           title: Fine-tuning SmolVLM using direct preference optimization (DPO) with TRL on a consumer GPU
         - local: structured_generation_vision_language_models
           title: Structured Generation from Images or Documents Using Vision Language Models
+        - local: fine_tuning_granite_vision_sft_trl
+          title: Fine-tuning Granite Vision with TRL
 
     - title: Search Recipes
       isExpanded: false
