@@ -1,0 +1,14 @@
+
+- title: Livre de recettes sur l'IA open-source
+  isExpanded: True
+  sections:
+    - local: index
+      title: Vue d'ensemble
+
+    - title: LLM Recipes
+      isExpanded: false
+      sections:
+        - local: llm_judge
+          title: Utilisation d'un LLM juge pour une évaluation automatisée et polyvalente
+        - local: structured_generation
+          title: RAG avec citation des sources grâce à la génération structurée

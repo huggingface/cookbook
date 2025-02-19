@@ -20,5 +20,5 @@ jobs:
       package_name: cookbook
       path_to_docs: cookbook/notebooks/
       additional_args: --not_python_module
-      languages: en zh-CN ko tr
+      languages: en zh-CN ko tr fr
       convert_notebooks: true
