@@ -7,7 +7,7 @@ applications and solving various machine learning tasks using open-source tools 
 
 Check out the recently added notebooks:
 
-- [HuatuoGPT-o1 Medical RAG and Reasoning](medical_rag_and_reasoning)
+- [HuatuoGPT-o1 Medical RAG and Reasoning](medical_rag_and_Reasoning)
 - [Fine-tuning Granite Vision 3.1 2B with TRL](fine_tuning_granite_vision_sft_trl)
 - [Post training an LLM for reasoning with GRPO in TRL](fine_tuning_llm_grpo_trl)
 - [Evaluating AI Search Engines with `judges` - the open-source library for LLM-as-a-judge evaluators](llm_judge_evaluating_ai_search_engines_with_judges_library)
