@@ -4,6 +4,12 @@
     - local: index
       title: Genel Bakış
 
+    - title: LLM Uygulamaları
+      isExpanded: false
+      sections:
+        - local: llm_judge
+          title: LLM'i otomatik ve çok yönlü değerlendirmek için bir yargıç gibi 🧑‍⚖️ kullanmak
+
     - title: Bilgisayarlı Görü Uygulamaları
       isExpanded: false
       sections:
@@ -11,7 +17,7 @@
           title: Özel Bir Veri Seti Üzerinde Anlamsal Segmentasyon Modeli Fine-Tuning ve Inference API Üzerinden Kullanımı
         - local: fine_tuning_detr_custom_dataset
           title: Özel Verisetini DETR Modeli ile Fine-Tuning ederek Nesne Tespiti Yapımı  🖼, Spaces Üzerinde Gösterimi ve Gradio API Entegrasyonu
-    
+
     - title: Ajanlar için Tarifler
       isExpanded: false
       sections:
