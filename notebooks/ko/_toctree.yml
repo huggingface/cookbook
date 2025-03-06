@@ -3,7 +3,7 @@
   sections:
     - local: index
       title: 오픈소스 AI Cookbook
-      
+
     - title: LLM 레시피
       isExpanded: false
       sections:
@@ -15,3 +15,13 @@
           title: 지식 그래프를 활용한 RAG 추론 향상
         - local: rag_zephyr_langchain
           title: GitHub 이슈를 위한 EEVE와 LangChain을 사용한 간단한 RAG
+    - title: 에이전트 레시피
+      isExpanded: false
+      sections:
+        - local: multiagent_web_assistant
+          title: 다중 에이전트 계층 구조에서 여러 에이전트가 협업하도록 하기
+    - title: Multimodal 레시피
+      isExpanded: false
+      sections:
+        - local: faiss_with_hf_datasets_and_clip
+          title: 유사성 검색을 위한 멀티모달 데이터 임베딩

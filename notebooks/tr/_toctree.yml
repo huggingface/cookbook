@@ -1,4 +1,3 @@
-
 - title: Açık Kaynak AI Cookbook
   isExpanded: True
   sections:
@@ -16,5 +15,17 @@
       sections:
         - local: semantic_segmentation_fine_tuning_inference
           title: Özel Bir Veri Seti Üzerinde Anlamsal Segmentasyon Modeli Fine-Tuning ve Inference API Üzerinden Kullanımı
+        - local: fine_tuning_detr_custom_dataset
+          title: Özel Verisetini DETR Modeli ile Fine-Tuning ederek Nesne Tespiti Yapımı  🖼, Spaces Üzerinde Gösterimi ve Gradio API Entegrasyonu
+    
+    - title: Ajanlar için Tarifler
+      isExpanded: false
+      sections:
+        - local: agents
+          title: Transformers Agents kullanarak tool-calling süper güçleriyle donatılmış bir ajan oluşturun 🦸
 
-
+    - title: Ajan Uygulamaları
+      isExpanded: false
+      sections:
+        - local: agent_data_analyst
+          title: Veri Analizi Ajanı - Göz açıp kapayıncaya kadar verilerinizi analiz edin ✨

@@ -5,6 +5,12 @@
     - local: index
       title: Overview
 
+    - title: MLOps Recipes
+      isExpanded: false
+      sections:
+        - local: mlflow_ray_serve
+          title: Signature-Aware Model Serving from MLflow with Ray Serve
+
     - title: LLM Recipes
       isExpanded: false
       sections:
@@ -26,6 +32,8 @@
           title: RAG Evaluation
         - local: llm_judge
           title: Using LLM-as-a-judge for an automated and versatile evaluation
+        - local: llm_judge_evaluating_ai_search_engines_with_judges_library
+          title: Evaluating AI Search Engines with `judges` - the open-source library for LLM-as-a-judge evaluators
         - local: issues_in_text_dataset
           title: Detecting Issues in a Text Dataset with Cleanlab
         - local: annotate_text_data_transformers_via_active_learning
@@ -62,6 +70,14 @@
           title: Benchmarking TGI
         - local: rag_with_knowledge_graphs_neo4j
           title: Enhancing RAG Reasoning with Knowledge Graphs
+        - local: phoenix_observability_on_hf_spaces
+          title: Phoenix Observability Dashboard on HF Spaces
+        - local: search_and_learn
+          title: Scaling Test-Time Compute for Longer Thinking in LLMs
+        - local: fine_tuning_llm_grpo_trl
+          title: Post training an LLM for reasoning with GRPO in TRL
+        - local: medical_rag_and_Reasoning
+          title: HuatuoGPT-o1 Medical RAG and Reasoning
           
     - title: Computer Vision Recipes
       isExpanded: false
@@ -88,28 +104,46 @@
           title: Embedding multimodal data for similarity search
         - local: multimodal_rag_using_document_retrieval_and_vlms
           title: Multimodal Retrieval-Augmented Generation (RAG) with Document Retrieval (ColPali) and Vision Language Models (VLMs)
+        - local: fine_tuning_vlm_trl
+          title: Fine-Tuning a Vision Language Model (Qwen2-VL-7B) with the Hugging Face Ecosystem (TRL)
+        - local: multimodal_rag_using_document_retrieval_and_reranker_and_vlms
+          title: Multimodal RAG with ColQwen2, Reranker, and Quantized VLMs on Consumer GPUs
+        - local: fine_tuning_smol_vlm_sft_trl
+          title: Fine-tuning SmolVLM with TRL on a consumer GPU
+        - local: multimodal_rag_using_document_retrieval_and_smol_vlm
+          title: Smol Multimodal RAG, Building with ColSmolVLM and SmolVLM on Colab's Free-Tier GPU
+        - local: fine_tuning_vlm_dpo_smolvlm_instruct
+          title: Fine-tuning SmolVLM using direct preference optimization (DPO) with TRL on a consumer GPU
+        - local: structured_generation_vision_language_models
+          title: Structured Generation from Images or Documents Using Vision Language Models
+        - local: fine_tuning_granite_vision_sft_trl
+          title: Fine-tuning Granite Vision with TRL
 
     - title: Search Recipes
       isExpanded: false
       sections:
       - local: semantic_reranking_elasticsearch
         title: Semantic Reranking with Elasticsearch
+      - local: vector_search_with_hub_as_backend
+        title: Vector Search on Hugging Face with the Hub as Backend
 
     - title: Agents Recipes
       isExpanded: false
       sections:
         - local: agents
-          title: Build an agent with tool-calling superpowers using Transformers Agents
+          title: Build an agent with tool-calling superpowers using smolagents
         - local: agent_rag
           title: Agentic RAG - turbocharge your RAG with query reformulation and self-query
-        - local: agent_change_llm
-          title: Create a Transformers Agent from any LLM inference provider
         - local: agent_text_to_sql
           title: Agent for Text-to-SQL with automatic error correction
         - local: agent_data_analyst
           title: Data analyst agent - get your data's insights in the blink of an eye
         - local: multiagent_web_assistant
           title: Have several agents collaborate in a multi-agent hierarchy
+        - local: multiagent_rag_system
+          title: Multi-agent RAG System 🤖🤝🤖
+        - local: mongodb_smolagents_multi_micro_agents
+          title: MongoDB + SmolAgents Multi-Micro Agents to facilitate a data driven order-delivery AI agent
 
 - title: Enterprise Hub Cookbook
   isExpanded: True
