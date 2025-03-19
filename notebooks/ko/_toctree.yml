@@ -20,6 +20,9 @@
       sections:
         - local: multiagent_web_assistant
           title: 다중 에이전트 계층 구조에서 여러 에이전트가 협업하도록 하기
+        - local: agent_data_analyst
+          title: 데이터 분석 에이전트: 눈깜짝할 사이에 데이터에서 인사이트 얻기
+  
     - title: Multimodal 레시피
       isExpanded: false
       sections:
