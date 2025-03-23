@@ -7,13 +7,11 @@ applications and solving various machine learning tasks using open-source tools 
 
 Check out the recently added notebooks:
 
-- [Fine-Tuning a Semantic Segmentation Model on a Custom Dataset and Usage via the Inference API](semantic_segmentation_fine_tuning_inference)
-- [Multimodal Retrieval-Augmented Generation (RAG) with Document Retrieval (ColPali) and Vision Language Models (VLMs)](multimodal_rag_using_document_retrieval_and_vlms)
-- [Fine-Tuning a Vision Language Model (Qwen2-VL-7B) with the Hugging Face Ecosystem (TRL)](fine_tuning_vlm_trl)
-- [Multi-agent RAG System 🤖🤝🤖](multiagent_rag_system)
-- [Multimodal RAG with ColQwen2, Reranker, and Quantized VLMs on Consumer GPUs](multimodal_rag_using_document_retrieval_and_reranker_and_vlms)
-
-
+- [HuatuoGPT-o1 Medical RAG and Reasoning](medical_rag_and_Reasoning)
+- [Fine-tuning Granite Vision 3.1 2B with TRL](fine_tuning_granite_vision_sft_trl)
+- [Post training an LLM for reasoning with GRPO in TRL](fine_tuning_llm_grpo_trl)
+- [Evaluating AI Search Engines with `judges` - the open-source library for LLM-as-a-judge evaluators](llm_judge_evaluating_ai_search_engines_with_judges_library)
+- [Structured Generation from Images or Documents Using Vision Language Models](structured_generation_vision_language_models)
 
 You can also check out the notebooks in the cookbook's [GitHub repo](https://github.com/huggingface/cookbook).
 
