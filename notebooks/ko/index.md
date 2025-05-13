@@ -13,6 +13,7 @@
 - [다중 에이전트 계층 구조에서 여러 에이전트가 협업하도록 하기](multiagent_web_assistant)
 
 - [유사성 검색을 위한 멀티모달 데이터 임베딩](faiss_with_hf_datasets_and_clip)
+- [커스텀 데이터셋으로 객체 탐지 모델 파인튜닝하기, Spaces에 배포하기, 그리고 Gradio API 연동하기](fine_tuning_detr_custom_dataset)
 
 더 다양한 노트북을 확인하고 싶다면 Cookbook's [GitHub 리포지토리](https://github.com/huggingface/cookbook)에 방문해보세요.
 
