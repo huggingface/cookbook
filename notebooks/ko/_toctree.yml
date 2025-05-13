@@ -15,6 +15,11 @@
           title: 지식 그래프를 활용한 RAG 추론 향상
         - local: rag_zephyr_langchain
           title: GitHub 이슈를 위한 EEVE와 LangChain을 사용한 간단한 RAG
+    - title: 컴퓨터 비전 레시피
+      isExpanded: false
+      sections:
+        - local: fine_tuning_detr_custom_dataset
+          title: 커스텀 데이터셋으로 객체 탐지 모델 파인튜닝하기, Spaces에 배포하기, 그리고 Gradio API 연동하기
     - title: 에이전트 레시피
       isExpanded: false
       sections:
