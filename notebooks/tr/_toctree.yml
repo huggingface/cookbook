@@ -11,6 +11,13 @@
           title: Özel Bir Veri Seti Üzerinde Anlamsal Segmentasyon Modeli Fine-Tuning ve Inference API Üzerinden Kullanımı
         - local: fine_tuning_detr_custom_dataset
           title: Özel Verisetini DETR Modeli ile Fine-Tuning ederek Nesne Tespiti Yapımı  🖼, Spaces Üzerinde Gösterimi ve Gradio API Entegrasyonu
+
+    - title: Multimodal Tarifleri
+      isExpanded: false
+      sections:
+        - local: analyzing_art_with_hf_and_fiftyone
+          title: Multimodal Embedding ile Sanatsal Stillerin Analizi
+
     - title: Ajanlar için Tarifler
       isExpanded: false
       sections:
