@@ -78,6 +78,10 @@
           title: Post training an LLM for reasoning with GRPO in TRL
         - local: medical_rag_and_Reasoning
           title: HuatuoGPT-o1 Medical RAG and Reasoning
+        - local: fine_tune_chatbot_docs_synthetic
+          title: Documentation Chatbot with Meta Synthetic Data Kit
+          
+        
           
     - title: Computer Vision Recipes
       isExpanded: false
