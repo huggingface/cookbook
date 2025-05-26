@@ -12,6 +12,8 @@ Check out the recently added notebooks:
 - [Post training an LLM for reasoning with GRPO in TRL](fine_tuning_llm_grpo_trl)
 - [Evaluating AI Search Engines with `judges` - the open-source library for LLM-as-a-judge evaluators](llm_judge_evaluating_ai_search_engines_with_judges_library)
 - [Structured Generation from Images or Documents Using Vision Language Models](structured_generation_vision_language_models)
+- [Fine-tuning T5 for Automatic GitHub Tag Generation with PEFT](finetune_t5_for_search_tag_generation)
+
 
 You can also check out the notebooks in the cookbook's [GitHub repo](https://github.com/huggingface/cookbook).
 
