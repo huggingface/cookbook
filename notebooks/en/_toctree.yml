@@ -54,6 +54,8 @@
           title: Building RAG with Custom Unstructured Data
         - local: fine_tuning_llm_to_generate_persian_product_catalogs_in_json_format
           title: Fine-tuning LLM to Generate Persian Product Catalogs in JSON Format
+        - local: finetune_t5_for_search_tag_generation
+          title: Fine-tuning T5 for Automatic GitHub Tag Generation with PEFT
         - local: llm_gateway_pii_detection
           title: LLM Gateway for PII Detection
         - local: information_extraction_haystack_nuextract
