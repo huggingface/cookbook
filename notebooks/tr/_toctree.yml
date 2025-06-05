@@ -10,6 +10,12 @@
         - local: fine_tuning_code_llm_on_single_gpu
           title: Kod Dil Modelini Tek GPU'da Fine-Tune Etmek
 
+    - title: LLM Uygulamaları
+      isExpanded: false
+      sections:
+        - local: llm_judge
+          title: LLM'i otomatik ve çok yönlü değerlendirmek için bir yargıç gibi 🧑‍⚖️ kullanmak
+
     - title: Bilgisayarlı Görü Uygulamaları
       isExpanded: false
       sections:
@@ -19,7 +25,7 @@
           title: Özel Verisetini DETR Modeli ile Fine-Tuning ederek Nesne Tespiti Yapımı  🖼, Spaces Üzerinde Gösterimi ve Gradio API Entegrasyonu
         - local: fine_tuning_vit_custom_dataset
           title: Vision Transformer Modelini Özel Bir Biyomedikal Verisetiyle Fine-Tune Etmek
-    
+
     - title: Ajanlar için Tarifler
       isExpanded: false
       sections:
