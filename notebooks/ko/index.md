@@ -11,6 +11,7 @@
 - [지식 그래프를 활용한 RAG 추론 향상](ko_rag_with_knowledge_graphs_neo4j)
 - [GitHub 이슈를 위한 EEVE와 LangChain을 사용한 간단한 RAG](rag_zephyr_langchain)
 - [다중 에이전트 계층 구조에서 여러 에이전트가 협업하도록 하기](multiagent_web_assistant)
+- [데이터분석 에이전트: 눈깜짝할 사이에 데이터에서 인사이트 얻기](https://huggingface.co/learn/cookbook/en/agent_data_analyst)
 
 - [유사성 검색을 위한 멀티모달 데이터 임베딩](faiss_with_hf_datasets_and_clip)
 
