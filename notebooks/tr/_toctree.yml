@@ -19,7 +19,13 @@
           title: Özel Verisetini DETR Modeli ile Fine-Tuning ederek Nesne Tespiti Yapımı  🖼, Spaces Üzerinde Gösterimi ve Gradio API Entegrasyonu
         - local: fine_tuning_vit_custom_dataset
           title: Vision Transformer Modelini Özel Bir Biyomedikal Verisetiyle Fine-Tune Etmek
-    
+
+    - title: Multimodal Tarifleri
+      isExpanded: false
+      sections:
+        - local: analyzing_art_with_hf_and_fiftyone
+          title: Multimodal Embedding ile Sanatsal Stillerin Analizi
+
     - title: Ajanlar için Tarifler
       isExpanded: false
       sections:
