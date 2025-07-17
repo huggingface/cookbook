@@ -126,6 +126,8 @@
           title: Structured Generation from Images or Documents Using Vision Language Models
         - local: fine_tuning_granite_vision_sft_trl
           title: Fine-tuning Granite Vision with TRL
+        - local: fine_tuning_vlm_object_detection_grounding
+          title: Fine tuning a VLM for Object Detection Grounding using TRL
 
     - title: Search Recipes
       isExpanded: false
