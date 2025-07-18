@@ -15,6 +15,11 @@
           title: 지식 그래프를 활용한 RAG 추론 향상
         - local: rag_zephyr_langchain
           title: GitHub 이슈를 위한 EEVE와 LangChain을 사용한 간단한 RAG
+    - title: 컴퓨터 비전 레시피
+      isExpanded: false
+      sections:
+        - local: fine_tuning_vit_custom_dataset_ko
+          title: Custom Biomedical Dataset으로 Vision Transformer 모델 Fine-tuning 하기  
     - title: 에이전트 레시피
       isExpanded: false
       sections:
