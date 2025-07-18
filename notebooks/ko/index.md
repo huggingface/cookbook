@@ -13,6 +13,8 @@
 - [다중 에이전트 계층 구조에서 여러 에이전트가 협업하도록 하기](multiagent_web_assistant)
 
 - [유사성 검색을 위한 멀티모달 데이터 임베딩](faiss_with_hf_datasets_and_clip)
+- [VLM을 사용하여 이미지와 문서로부터 구조화된 데이터 생성](structured_generation_vision_language_models)
+
 
 더 다양한 노트북을 확인하고 싶다면 Cookbook's [GitHub 리포지토리](https://github.com/huggingface/cookbook)에 방문해보세요.
 
