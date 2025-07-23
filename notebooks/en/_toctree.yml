@@ -128,6 +128,8 @@
           title: Fine-tuning Granite Vision with TRL
         - local: fine_tuning_vlm_object_detection_grounding
           title: Fine tuning a VLM for Object Detection Grounding using TRL
+        - local: fine_tuning_vlm_mpo
+          title: Fine-Tuning a Vision Language Model with TRL using MPO
 
     - title: Search Recipes
       isExpanded: false
