@@ -78,7 +78,7 @@
           title: Scaling Test-Time Compute for Longer Thinking in LLMs
         - local: fine_tuning_llm_grpo_trl
           title: Post training an LLM for reasoning with GRPO in TRL
-        - local: medical_rag_and_Reasoning
+        - local: medical_rag_and_reasoning
           title: HuatuoGPT-o1 Medical RAG and Reasoning
         - local: fine_tune_chatbot_docs_synthetic
           title: Documentation Chatbot with Meta Synthetic Data Kit
