@@ -130,6 +130,8 @@
           title: Fine tuning a VLM for Object Detection Grounding using TRL
         - local: fine_tuning_vlm_mpo
           title: Fine-Tuning a Vision Language Model with TRL using MPO
+        - local: fine_tuning_vlm_grpo_trl
+          title: Post training an VLM for reasoning with GRPO using TRL
 
     - title: Search Recipes
       isExpanded: false
