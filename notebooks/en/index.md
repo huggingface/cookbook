@@ -7,6 +7,7 @@ applications and solving various machine learning tasks using open-source tools 
 
 Check out the recently added notebooks:
 
+- [Fine-tuning LLMs for Function Calling with the xLAM Dataset](function_calling_fine_tuning_llms_on_xlam)
 - [Post training an VLM for reasoning with GRPO using TRL](fine_tuning_vlm_grpo_trl)
 - [TRL GRPO Reasoning with Advanced Reward](trl_grpo_reasoning_advanced_reward)
 - [Fine-Tuning a Vision Language Model with TRL using MPO](fine_tuning_vlm_mpo)

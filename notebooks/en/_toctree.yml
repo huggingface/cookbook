@@ -86,6 +86,8 @@
           title: Documentation Chatbot with Meta Synthetic Data Kit
         - local: optuna_hpo_with_transformers
           title: Hyperparameter Optimization with Optuna and Transformers
+        - local: function_calling_fine_tuning_llms_on_xlam
+          title: Fine-tuning LLMs for Function Calling with the xLAM Dataset
           
         
           
