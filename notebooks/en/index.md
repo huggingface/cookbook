@@ -12,6 +12,7 @@ Check out the recently added notebooks:
 - [TRL GRPO Reasoning with Advanced Reward](trl_grpo_reasoning_advanced_reward)
 - [Fine-Tuning a Vision Language Model with TRL using MPO](fine_tuning_vlm_mpo)
 - [Fine tuning a VLM for Object Detection Grounding using TRL](fine_tuning_vlm_object_detection_grounding)
+- [Fine-tuning T5 for Automatic GitHub Tag Generation with PEFT](finetune_t5_for_search_tag_generation)
 
 You can also check out the notebooks in the cookbook's [GitHub repo](https://github.com/huggingface/cookbook).
 
@@ -19,4 +20,4 @@ You can also check out the notebooks in the cookbook's [GitHub repo](https://git
 
 The Open-Source AI Cookbook is a community effort, and we welcome contributions from everyone!
 Check out the cookbook's [Contribution guide](https://github.com/huggingface/cookbook/blob/main/README.md) to learn
-how you can add your "recipe".`
+how you can add your "recipe".
