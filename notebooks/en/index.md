@@ -12,7 +12,6 @@ Check out the recently added notebooks:
 - [TRL GRPO Reasoning with Advanced Reward](trl_grpo_reasoning_advanced_reward)
 - [Fine-Tuning a Vision Language Model with TRL using MPO](fine_tuning_vlm_mpo)
 - [Fine tuning a VLM for Object Detection Grounding using TRL](fine_tuning_vlm_object_detection_grounding)
-- [Fine-tuning T5 for Automatic GitHub Tag Generation with PEFT](finetune_t5_for_search_tag_generation)
 
 You can also check out the notebooks in the cookbook's [GitHub repo](https://github.com/huggingface/cookbook).
 
