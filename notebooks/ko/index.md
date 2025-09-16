@@ -13,7 +13,7 @@
 - [다중 에이전트 계층 구조에서 여러 에이전트가 협업하도록 하기](multiagent_web_assistant)
 
 - [유사성 검색을 위한 멀티모달 데이터 임베딩](faiss_with_hf_datasets_and_clip)
-- [허깅페이스에서 허브를 백엔드로 사용한 벡터 검색](vector_search_with_hub_as_backend)
+- [허깅페이스 허브를 백엔드로 사용한 벡터 검색](vector_search_with_hub_as_backend)
 
 더 다양한 노트북을 확인하고 싶다면 Cookbook's [GitHub 리포지토리](https://github.com/huggingface/cookbook)에 방문해보세요.
 
