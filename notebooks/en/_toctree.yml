@@ -54,6 +54,8 @@
           title: Building RAG with Custom Unstructured Data
         - local: fine_tuning_llm_to_generate_persian_product_catalogs_in_json_format
           title: Fine-tuning LLM to Generate Persian Product Catalogs in JSON Format
+        - local: finetune_t5_for_search_tag_generation
+          title: Fine-tuning T5 for Automatic GitHub Tag Generation with PEFT
         - local: llm_gateway_pii_detection
           title: LLM Gateway for PII Detection
         - local: information_extraction_haystack_nuextract
@@ -76,10 +78,16 @@
           title: Scaling Test-Time Compute for Longer Thinking in LLMs
         - local: fine_tuning_llm_grpo_trl
           title: Post training an LLM for reasoning with GRPO in TRL
-        - local: medical_rag_and_Reasoning
+        - local: trl_grpo_reasoning_advanced_reward
+          title: TRL GRPO Reasoning with Advanced Reward
+        - local: medical_rag_and_reasoning
           title: HuatuoGPT-o1 Medical RAG and Reasoning
         - local: fine_tune_chatbot_docs_synthetic
           title: Documentation Chatbot with Meta Synthetic Data Kit
+        - local: optuna_hpo_with_transformers
+          title: Hyperparameter Optimization with Optuna and Transformers
+        - local: function_calling_fine_tuning_llms_on_xlam
+          title: Fine-tuning LLMs for Function Calling with the xLAM Dataset
           
         
           
@@ -122,6 +130,12 @@
           title: Structured Generation from Images or Documents Using Vision Language Models
         - local: fine_tuning_granite_vision_sft_trl
           title: Fine-tuning Granite Vision with TRL
+        - local: fine_tuning_vlm_object_detection_grounding
+          title: Fine tuning a VLM for Object Detection Grounding using TRL
+        - local: fine_tuning_vlm_mpo
+          title: Fine-Tuning a Vision Language Model with TRL using MPO
+        - local: fine_tuning_vlm_grpo_trl
+          title: Post training an VLM for reasoning with GRPO using TRL
 
     - title: Search Recipes
       isExpanded: false

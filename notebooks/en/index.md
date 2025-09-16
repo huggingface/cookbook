@@ -7,12 +7,11 @@ applications and solving various machine learning tasks using open-source tools 
 
 Check out the recently added notebooks:
 
-- [Documentation Chatbot with Meta Synthetic Data Kit](fine_tune_chatbot_docs_synthetic)
-- [HuatuoGPT-o1 Medical RAG and Reasoning](medical_rag_and_Reasoning)
-- [Fine-tuning Granite Vision 3.1 2B with TRL](fine_tuning_granite_vision_sft_trl)
-- [Post training an LLM for reasoning with GRPO in TRL](fine_tuning_llm_grpo_trl)
-- [Evaluating AI Search Engines with `judges` - the open-source library for LLM-as-a-judge evaluators](llm_judge_evaluating_ai_search_engines_with_judges_library)
-
+- [Fine-tuning LLMs for Function Calling with the xLAM Dataset](function_calling_fine_tuning_llms_on_xlam)
+- [Post training an VLM for reasoning with GRPO using TRL](fine_tuning_vlm_grpo_trl)
+- [TRL GRPO Reasoning with Advanced Reward](trl_grpo_reasoning_advanced_reward)
+- [Fine-Tuning a Vision Language Model with TRL using MPO](fine_tuning_vlm_mpo)
+- [Fine tuning a VLM for Object Detection Grounding using TRL](fine_tuning_vlm_object_detection_grounding)
 
 You can also check out the notebooks in the cookbook's [GitHub repo](https://github.com/huggingface/cookbook).
 
@@ -20,4 +19,4 @@ You can also check out the notebooks in the cookbook's [GitHub repo](https://git
 
 The Open-Source AI Cookbook is a community effort, and we welcome contributions from everyone!
 Check out the cookbook's [Contribution guide](https://github.com/huggingface/cookbook/blob/main/README.md) to learn
-how you can add your "recipe".`
+how you can add your "recipe".
