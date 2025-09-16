@@ -29,4 +29,4 @@
       isExpanded: false
       sections:
         - local: vector_search_with_hub_as_backend
-          title: 허깅페이스에서 허브를 백엔드로 사용한 벡터 검색
+          title: 허깅페이스 허브를 백엔드로 사용한 벡터 검색
