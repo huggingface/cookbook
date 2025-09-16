@@ -19,7 +19,9 @@
       isExpanded: false
       sections:
         - local: fine_tuning_vit_custom_dataset_ko
-          title: Custom Biomedical Dataset으로 Vision Transformer 모델 Fine-tuning 하기  
+          title: Custom Biomedical Dataset으로 Vision Transformer 모델 Fine-tuning 하기 
+        - local: fine_tuning_detr_custom_dataset
+          title: 커스텀 데이터셋으로 객체 탐지 모델 파인튜닝하기, Spaces에 배포하기, 그리고 Gradio API 연동하기
     - title: 에이전트 레시피
       isExpanded: false
       sections:
