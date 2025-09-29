@@ -16,6 +16,7 @@
 - [개인용 GPU에서 TRL로 SmolVLM DPO 파인튜닝하기](ko_fine_tuning_vlm_dpo_smolvlm_instruct)
 - [커스텀 데이터셋으로 객체 탐지 모델 파인튜닝하기, Spaces에 배포하기, 그리고 Gradio API 연동하기](fine_tuning_detr_custom_dataset)
 - [허깅페이스 허브를 백엔드로 사용한 벡터 검색](vector_search_with_hub_as_backend)
+- [벡터 검색 에이전트-허깅페이스 허브를 백엔드로 하는 똑똑한 검색 엔진](vector_search_agent)
 
 더 다양한 노트북을 확인하고 싶다면 Cookbook's [GitHub 리포지토리](https://github.com/huggingface/cookbook)에 방문해보세요.
 
