@@ -17,20 +17,62 @@
           title: 使用 SetFit 进行零样本文本分类的数据标注建议
         - local: fine_tuning_code_llm_on_single_gpu
           title: 在单个 GPU 上针对自定义代码微调代码 LLM
-        - local: rag_with_hugging_face_gemma_elasticsearch
-          title: 构建一个基于 Gemma、Elasticsearch 和 Hugging Face 模型的 RAG 系统
-        - local: rag_with_hf_and_milvus
-          title: 使用 Hugging Face 和 Milvus 构建 RAG 系统
         - local: prompt_tuning_peft
           title: 使用 PEFT 进行提示微调
-        - local: structured_generation
-          title: 使用结构化生成进行带源高亮的 RAG 
-        - local: rag_with_unstructured_data
-          title: 使用自定义非结构化数据构建 RAG
+        - local: rag_with_hf_and_milvus
+          title: 使用 Hugging Face 和 Milvus 构建 RAG 系统
         - local: rag_evaluation
           title: 使用合成数据和 LLM 作为裁判评估 RAG
         - local: llm_judge
           title: 使用 LLM 作为评判者🧑‍⚖️进行自动化和多方面的评估
+        - local: issues_in_text_dataset
+          title: 使用 Cleanlab 检测文本数据集中的问题
+        - local: annotate_text_data_transformers_via_active_learning
+          title: 使用 Cleanlab 进行主动学习标注文本数据
+        - local: rag_with_hugging_face_gemma_elasticsearch
+          title: 构建一个基于 Gemma、Elasticsearch 和 Hugging Face 模型的 RAG 系统
+        - local: rag_with_hugging_face_gemma_mongodb
+          title: 用 Gemma, MongoDB 和开源模型构建 RAG 系统
+        - local: rag_zephyr_langchain
+          title: 用 Hugging Face Zephyr 和 LangChain 针对 Github issues 构建简单的 RAG
+        - local: rag_llamaindex_librarian
+          title: 用 LlamaIndex 构建一个 RAG 电子书库智能助手
+        - local: semantic_cache_chroma_vector_database
+          title: 通过引入语义缓存到 FAISS 中以增强 RAG 系统的性能
+        - local: structured_generation
+          title: 使用结构化生成进行带源高亮的 RAG 
+        - local: rag_with_unstructured_data
+          title: 使用自定义非结构化数据构建 RAG
+        - local: fine_tuning_llm_to_generate_persian_product_catalogs_in_json_format
+          title: 微调大型语言模型以生成波斯语产品目录的 JSON 格式
+        - local: llm_gateway_pii_detection
+          title: 个人身份信息 (PII) 检测的 LLM 网关
+        - local: information_extraction_haystack_nuextract
+          title: 使用 Haystack 和 NuExtract 进行信息提取
+        - local: code_search
+          title: 使用向量嵌入和 Qdrant 进行代码搜索
+        - local: rag_with_sql_reranker
+          title: 于 SQL 和 Jina Reranker v2 的 RAG
+        - local: generate_preference_dataset_distilabel
+          title: 使用 distilabel 生成偏好数据集
+        - local: clean_dataset_judges_distilabel
+          title: 使用大型语言模型作为评审者清理现有的偏好数据集
+        - local: benchmarking_tgi
+          title: 基准测试 TGI
+        - local: rag_with_knowledge_graphs_neo4j
+          title: 利用知识图谱增强 RAG 推理能力
+        - local: phoenix_observability_on_hf_spaces
+          title: 在 Hugging Face Spaces 上设置 Phoenix 观察性仪表板以进行 LLM 应用程序追踪
+    
+    - title: 计算机视觉
+      isExpanded: false
+      sections:
+        - local: fine_tuning_vit_custom_dataset
+          title: 用自定义生物医学数据集微调视觉 Transformer 模型
+        - local: fine_tuning_detr_custom_dataset
+          title: 用自定义数据集微调目标检测模型🖼，部署至 Spaces, 并进行 Gradio API 集成
+        - local: semantic_segmentation_fine_tuning_inference
+          title: 在自定义数据集上微调语义分割模型并通过推理 API 使用
 
     - title: Diffusion 系列
       isExpanded: false
@@ -41,41 +83,49 @@
     - title: 多模态系列
       isExpanded: false
       sections:
+        - local: analyzing_art_with_hf_and_fiftyone
+          title: 分析艺术风格与多模态嵌入
         - local: faiss_with_hf_datasets_and_clip
           title: 用 🤗 transformers, 🤗 datasets 和 FAISS 嵌入多模态数据进行相似度搜索
+        - local: multimodal_rag_using_document_retrieval_and_vlms
+          title: 基于文档检索 (ColPali) 和视觉语言模型 (VLMs) 的多模态检索增强生成 (RAG)
+        - local: fine_tuning_vlm_trl
+          title: 使用 Hugging Face 生态系统 (TRL) 对视觉语言模型 (Qwen2-VL-7B) 进行微调
 
-    - title: 使用其他库的 LLM 和 RAG 系列
+    - title: 检索系列
       isExpanded: false
       sections:
-        - local: issues_in_text_dataset
-          title: 使用 Cleanlab 检测文本数据集中的问题
-        - local: rag_with_hugging_face_gemma_mongodb
-          title: 用 Gemma, MongoDB 和开源模型构建 RAG 系统
-        - local: rag_zephyr_langchain
-          title: 用 Hugging Face Zephyr 和 LangChain 针对 Github issues 构建简单的 RAG
-        - local: rag_llamaindex_librarian
-          title: 用 LlamaIndex 构建一个 RAG 电子书库智能助手
-        - local: pipeline_notus_instructions_preferences_legal
-          title: 创建一个合法偏好数据集
-        - local: semantic_cache_chroma_vector_database
-          title: 通过引入语义缓存到 FAISS 中以增强 RAG 系统的性能
+        - local: semantic_reranking_elasticsearch
+          title: 使用 Elasticsearch 和 Hugging Face 进行语义重排序
 
-    - title: 计算机视觉
-      isExpanded: false
-      sections:
-        - local: fine_tuning_vit_custom_dataset
-          title: 用自定义生物医学数据集微调视觉 Transformer 模型
-
-    - title: 智能体
+    - title: 智能体系列
       isExpanded: false
       sections:
         - local: agents
           title: 使用 smolagents 构建具有工具调用超能力的智能体
         - local: agent_rag
-          title: 智能体 RAG 通过查询重构和自查询来增强你的 RAG
+          title: 智能体 RAG 通过查询重构和自查询来增强你的 RAG 
+        - local: agent_text_to_sql
+          title: 用于文本到 SQL 的智能体，带有自动错误修正功能 
+        - local: agent_data_analyst
+          title: 数据分析智能体-瞬间获取数据洞察
+        - local: multiagent_web_assistant
+          title: 让多个智能体在多智能体层级中协作
+        - local: multiagent_rag_system
+          title: 多智能体 RAG 系统 🤖🤝🤖
 
 - title: 企业级使用指南 (Cookbook)
   isExpanded: True
   sections:
-  - local: enterprise_cookbook_overview
-    title: 概览
+    - local: enterprise_cookbook_overview
+      title: 概览
+    - local: enterprise_cookbook_dev_spaces
+      title: 在 HF 空间中的互动开发
+    - local: enterprise_hub_serverless_inference_api
+      title: 无服务器推理 API 
+    - local: enterprise_dedicated_endpoints
+      title: 推理端点(专用) 
+    - local: enterprise_cookbook_argilla
+      title: 数据标注与 Argilla Spaces 
+    - local: enterprise_cookbook_gradio
+      title: 使用 Spaces 和 Gradio 创建演示
