@@ -90,9 +90,8 @@
           title: Fine-tuning LLMs for Function Calling with the xLAM Dataset
         - local: dspy_gepa
           title: Optimizing Language Models with DSPy GEPA
-
-
-
+        - local: grpo_vllm_online_training
+          title: Efficient Online Training with GRPO and vLLM in TRL
     - title: Computer Vision Recipes
       isExpanded: false
       sections:
