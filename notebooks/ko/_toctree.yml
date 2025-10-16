@@ -27,6 +27,9 @@
       sections:
         - local: multiagent_web_assistant
           title: 다중 에이전트 계층 구조에서 여러 에이전트가 협업하도록 하기
+        - local: agent_data_analyst
+          title: 데이터 분석 에이전트: 눈깜짝할 사이에 데이터에서 인사이트 뽑아내기
+  
     - title: Multimodal 레시피
       isExpanded: false
       sections:
@@ -39,4 +42,3 @@
       sections:
         - local: vector_search_with_hub_as_backend
           title: 허깅페이스 허브를 백엔드로 사용한 벡터 검색
-
