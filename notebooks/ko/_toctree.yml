@@ -27,6 +27,8 @@
       sections:
         - local: multiagent_web_assistant
           title: 다중 에이전트 계층 구조에서 여러 에이전트가 협업하도록 하기
+        - local: vector_search_agent
+          title: 벡터 검색 에이전트-허깅페이스 허브를 백엔드로 하는 지능형 검색 엔진
     - title: Multimodal 레시피
       isExpanded: false
       sections:
