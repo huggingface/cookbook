@@ -92,6 +92,8 @@
           title: Optimizing Language Models with DSPy GEPA
         - local: grpo_vllm_online_training
           title: Efficient Online Training with GRPO and vLLM in TRL
+        - local: rapidfire_sft_multiconfig_training
+          title: Concurrent Multi-Config SFT Training with RapidFire AI
     - title: Computer Vision Recipes
       isExpanded: false
       sections:
