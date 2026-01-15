@@ -26,8 +26,9 @@ following qualities:
 * *Practical*: Your notebook should provide an illustration of an end-to-end project or a specific aspect of AI development. Aim for real-world applications, but try to avoid overcomplicating. Clearly explain the objectives, challenges and steps involved.
 * *Build with open-source tools and models*: Utilize open source libraries, datasets, and pre-trained models available under permissive licenses. Include links to all resources used within the notebook.
 * *Clearly written*: Ensure your writing is clear, concise, and free from grammatical errors. Maintain a friendly and approachable tone throughout the notebook. Explain the steps you take to solve a problem, challenges, alternative approaches.
-* *Executes without errors*: Test your notebook to avoid runtime errors. 
-* *Adds to existing "recipes"*: Before submitting, review existing notebooks to confirm that the subject hasn't been covered yet. We welcome diverse use cases, modalities, techniques, and approaches! 
+* *Executes without errors*: Test your notebook to avoid runtime errors.
+* *Adds to existing "recipes"*: Before submitting, review existing notebooks to confirm that the subject hasn't been covered yet. We welcome diverse use cases, modalities, techniques, and approaches!
+* *Content neutrality*: Notebooks should remain neutral and educational. They should not be branded or heavily focused on promoting specific brands, products, or open-source repositories.
 
 ### Creating a pull request
 
