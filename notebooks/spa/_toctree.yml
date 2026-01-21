@@ -1,0 +1,37 @@
+- title: Open-Source AI Cookbook
+  sections:
+  - local: index
+    title: Open-Source AI Cookbook
+  - local: issues_in_text_dataset
+    title: Detección de problemas en un conjunto de datos de texto con Cleanlab
+  - local: stable_diffusion_interpolation
+    title: Interpolación por difusión estable
+  - local: rag_with_hugging_face_gemma_mongodb
+    title: Creación de un sistema RAG con Gemma, MongoDB y modelos de código abierto
+  - local: tgi_messages_api_demo
+    title: Migración de OpenAI a Open LLM mediante la API de mensajes de TGI
+  - local: automatic_embedding_tei_inference_endpoints
+    title: Incrustación automática con TEI mediante puntos finales de inferencia
+  - local: faiss_with_hf_datasets_and_clip
+    title: Incrustación de datos multimodales para la búsqueda de similitudes
+  - local: fine_tuning_code_llm_on_single_gpu
+    title: Fine-tuning de un LLM de código personalizado en una sola GPU
+  - local: rag_zephyr_langchain
+    title: RAG simple utilizando Hugging Face Zephyr y LangChain
+  - local: rag_llamaindex_librarian
+    title: RAG "Bibliotecario" con LlamaIndex
+  - local: advanced_rag
+    title: RAG avanzado sobre la documentación de HuggingFace utilizando LangChain
+  - local: rag_evaluation
+    title: Evaluación RAG
+  - local: prompt_tuning_peft
+    title: Prompt tuning con PEFT
+  - local: labelling_feedback_setfit
+    title: Sugerencias para la anotación de datos con SetFit en la clasificación de textos con disparo cero
+  - local: pipeline_notus_instructions_preferences_legal
+    title: Crear un conjunto de datos de preferencias legales
+  - local: semantic_cache_chroma_vector_database
+    title: Implementación de la caché semántica para mejorar un sistema RAG.
+  - local: llm_judge
+    title: Utilización de LLM-as-a-judge para una evaluación automatizada y versátil
+
