@@ -7,6 +7,7 @@ applications and solving various machine learning tasks using open-source tools 
 
 Check out the recently added notebooks:
 
+- [Building Multi-Agent Systems with AG2 and Hugging Face](ag2_multiagent_system)
 - [Concurrent Multi-Config SFT Training with RapidFire AI](rapidfire_sft_multiconfig_training)
 - [Optimizing Language Models with DSPy GEPA](dspy_gepa)
 - [Efficient Online Training with GRPO and vLLM in TRL](grpo_vllm_online_training)
