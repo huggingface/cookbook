@@ -166,7 +166,7 @@
         - local: mongodb_smolagents_multi_micro_agents
           title: MongoDB + SmolAgents Multi-Micro Agents to facilitate a data driven order-delivery AI agent
         - local: ag2_multiagent_system
-          title: Building Multi-Agent Systems with AG2 and Hugging Face
+          title: Building a Model Comparison Pipeline with Multi-Agent Collaboration
           isNew: true
 
 - title: Enterprise Hub Cookbook
