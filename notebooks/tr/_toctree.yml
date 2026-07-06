@@ -9,12 +9,8 @@
       sections:
         - local: fine_tuning_code_llm_on_single_gpu
           title: Kod Dil Modelini Tek GPU'da Fine-Tune Etmek
-
-    - title: LLM Uygulamaları
-      isExpanded: false
-      sections:
         - local: llm_judge
-          title: LLM'i otomatik ve çok yönlü değerlendirmek için bir yargıç gibi 🧑‍⚖️ kullanmak
+          title: Otomatik ve Çok Yönlü Değerlendirme için LLM'i Yargıç Olarak Kullanmak 🧑‍⚖️
 
     - title: Bilgisayarlı Görü Uygulamaları
       isExpanded: false
