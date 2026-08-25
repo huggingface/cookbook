@@ -165,6 +165,8 @@
           title: Multi-agent RAG System 🤖🤝🤖
         - local: mongodb_smolagents_multi_micro_agents
           title: MongoDB + SmolAgents Multi-Micro Agents to facilitate a data driven order-delivery AI agent
+        - local: grpo_agent_wordle_hf_jobs
+          title: Train a multi-turn Wordle agent with GRPO on OpenEnv using Hugging Face Jobs
         - local: search_agent_self_verification
           title: Building a self-verifying search agent with adversarial verification
 
