@@ -92,7 +92,7 @@ Once `Dev Mode` is activated, you will see a pop-up at the bottom left of your J
 </div>
 
 
-When connecting to your Space with SSH, your default directory will be an empty `/app` directory. You then need to change to the `/data` directory, where all your persistent files (code, data, models etc.) are stored. The `/data` directory is the only directory with guaranteed file persistance across sessions. You can find the files of your Docker container in the `HOME/user/app` directory, in case you want to modify the underlying Docker container. 
+When connecting to your Space with SSH, your default directory will be an empty `/app` directory. You then need to change to the `/data` directory, where all your persistent files (code, data, models etc.) are stored. The `/data` directory is the only directory with guaranteed file persistence across sessions. You can find the files of your Docker container in the `HOME/user/app` directory, in case you want to modify the underlying Docker container.
 
 > [!TIP]
 > Persisted files in the `/data` directory are currently not automatically backed up. We therefore recommend making backups of your most important files on a regular basis to avoid accidental data loss. 
