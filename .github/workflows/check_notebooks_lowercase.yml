@@ -2,8 +2,12 @@ name: Check notebook names are lowercase
 
 on: [push]
 
+permissions: {}
+
 jobs:
   check-lowercase:
+    permissions:
+      contents: read
     runs-on: ubuntu-latest
     steps:
     - name: Checkout code
