@@ -1,0 +1,5 @@
+git clone https://github.com/DOUGLASDAVIS08161978/NEXUS_AGI.git 
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {}
+}
