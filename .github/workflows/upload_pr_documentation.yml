@@ -8,7 +8,7 @@ on:
 
 jobs:
   build:
-    uses: huggingface/doc-builder/.github/workflows/upload_pr_documentation.yml@17ccdf17e0f5e5f88b1ce9f20b3b73fb19017169  # main
+    uses: huggingface/doc-builder/.github/workflows/upload_pr_documentation.yml@be7b9d059bfbeb00b43c706b0619e311f7b37d2b  # main
     with:
       package_name: cookbook
     secrets:
