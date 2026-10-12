@@ -18,6 +18,8 @@
           title: Automatic Embeddings with TEI through Inference Endpoints
         - local: tgi_messages_api_demo
           title: Migrating from OpenAI to Open LLMs Using TGI's Messages API
+        - local: zero_cloud_hybrid_rag_sqlite_fts5
+          title: Zero-Cloud Local Hybrid RAG with SQLite FTS5 and Sentence Transformers
         - local: advanced_rag
           title: Advanced RAG on HuggingFace documentation using LangChain
         - local: labelling_feedback_setfit
