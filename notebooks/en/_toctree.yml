@@ -64,6 +64,8 @@
           title: Code Search With Vector Embeddings Using Qdrant
         - local: rag_with_sql_reranker
           title: RAG backed by SQL and Jina Reranker
+        - local: schema_selection_text_to_sql
+          title: Smaller Text-to-SQL Prompts for Open Models with Schema Selection
         - local: generate_preference_dataset_distilabel
           title: Generate a Preference Dataset with distilabel
         - local: clean_dataset_judges_distilabel
