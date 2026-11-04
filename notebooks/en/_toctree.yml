@@ -94,6 +94,8 @@
           title: Efficient Online Training with GRPO and vLLM in TRL
         - local: rapidfire_sft_multiconfig_training
           title: Concurrent Multi-Config SFT Training with RapidFire AI
+        - local: fine_tuning_esm2_protein_localization
+          title: Fine-tuning a Protein Language Model for Subcellular Localization with ESM-2
     - title: Computer Vision Recipes
       isExpanded: false
       sections:
