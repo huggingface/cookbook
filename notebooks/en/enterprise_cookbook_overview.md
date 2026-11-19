@@ -28,7 +28,7 @@ For more details, read also the [dedicated Endpoint](https://huggingface.co/docs
 
 Whether you're zero-shot testing an LLM or training your own model, creating good test or train data is maybe the highest-value investment you can make at the beginning of your machine learning journey. Argilla is a free, open-source data annotation tool that enables you to create high-quality data for text, image, or audio tasks. Read this recipe to learn how to create a data annotation workflow (alone or in a larger team) in your browser.
 
-See also the [Argilla](https://docs.argilla.io/en/latest/) documentation and the [HF Argilla Spaces](https://huggingface.co/docs/hub/spaces-sdks-docker-argilla) integration for more details.
+See also the [Argilla](https://docs.argilla.io/latest/) documentation and the [HF Argilla Spaces](https://huggingface.co/docs/hub/spaces-sdks-docker-argilla) integration for more details.
 
 
 ## AutoTrain Spaces  (coming soon)
