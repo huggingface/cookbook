@@ -68,6 +68,8 @@
           title: Generate a Preference Dataset with distilabel
         - local: clean_dataset_judges_distilabel
           title: Clean an Existing Preference Dataset with LLMs as Judges
+        - local: measure_kv_cache_payload
+          title: Measure the memory used by a decoder’s KV cache
         - local: benchmarking_tgi
           title: Benchmarking TGI
         - local: rag_with_knowledge_graphs_neo4j
